@@ -1,5 +1,5 @@
 ﻿{
-  "Database Version": 61,
+  "Database Version": 62,
   "categories": ["Accompaniments","Beverages","Breads","Cakes, Pastries & Biscuits","Confectionery","Desserts","Dressings","Ice Creams & Sorbets","Main Courses","Marinades & Sauces","Pâtés","Preserves, Relishes & Pickles","Salads","Soups","Snacks","Starters"],
   "styles": ["Alsace","American","Asian","Australian","Austria","Belgian","Bolivian","Brazilian","British","British-Indian","Burmese","Caribbean","Chilean","Chinese","Creole","Czech","Danish","Dutch","Egyptian","English","Finish","French","Georgian","German","Greek","Hungarian","Indian","Indonesian","International","Irish","Israeli","Italian","Jamaican","Japanese","Korean","Lebanese","Luxembourg","Malaysian","Mauritian","Mediterranean","Mexican","Middle Eastern","Nepalese","New Zealand","Norwegian","Pakistani","Palestinian","Papua New Guinea","Peruvian","Philippino","Polish","Portuguese","Russian","Scottish","Spanish","Sri Lankan","Swedish","Swiss","Taiwanese","Thai","Turkish","Ukrainian","Venezuelan","Vietnamese","Welsh"],
   "recipes": [
@@ -7632,6 +7632,19 @@
       "Yield":"280 g",
       "Country/Style":"British",
       "Keywords":"compote",
+      "Rating":""
+    },
+    {
+      "Record No.":"597",
+      "Title":"Cabbage slices with chicken",
+      "Category":"Main Courses",
+      "Ingredients":"1 cabbage, cut into 3 slices\n3 chicken breasts, cut into bite size chunks\n1 large egg\nPaprika\nChicken seasoning\n100g cheese\nSalt\nBlack pepper",
+      "Preparation":"Place the cabbage slices on to backing parchment set over a bakking sheet. Sprinkle with olive oil, salt, pepper and paprika and set aside.\nInto a large bowl, place the chick chunks, the egg, salt, black pepper, paprika and cheese. Mix well to coat the chicken.\nPlace a quarted of this mix onto the three cabbage slices and bake in the oven at 180°C for 35 - 40 minutes.",
+      "Preparation Time":"20 minutes",
+      "Cook Time":"40 minutes",
+      "Yield":"3 servings",
+      "Country/Style":"British",
+      "Keywords":"Thick cabbage",
       "Rating":""
     }
   ]
