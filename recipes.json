@@ -1,6 +1,6 @@
 ﻿{
-  "Database Version": 62,
-  "categories": ["Accompaniments","Beverages","Breads","Cakes, Pastries & Biscuits","Confectionery","Desserts","Dressings","Ice Creams & Sorbets","Main Courses","Marinades & Sauces","Pâtés","Preserves, Relishes & Pickles","Salads","Soups","Snacks","Starters"],
+  "Database Version": 67,
+  "categories": ["Accompaniments/Side Dishes","Beverages","Breads","Cakes, Pastries & Biscuits","Confectionery","Desserts","Dressings & Dips","Ice Creams & Sorbets","Main Courses","Marinades & Sauces","Pâtés & Terrines","Preserves, Relishes & Pickles","Salads","Soups","Snacks","Starters, Appetizers & Hors d'oeuvres"],
   "styles": ["Alsace","American","Asian","Australian","Austria","Belgian","Bolivian","Brazilian","British","British-Indian","Burmese","Caribbean","Chilean","Chinese","Creole","Czech","Danish","Dutch","Egyptian","English","Finish","French","Georgian","German","Greek","Hungarian","Indian","Indonesian","International","Irish","Israeli","Italian","Jamaican","Japanese","Korean","Lebanese","Luxembourg","Malaysian","Mauritian","Mediterranean","Mexican","Middle Eastern","Nepalese","New Zealand","Norwegian","Pakistani","Palestinian","Papua New Guinea","Peruvian","Philippino","Polish","Portuguese","Russian","Scottish","Spanish","Sri Lankan","Swedish","Swiss","Taiwanese","Thai","Turkish","Ukrainian","Venezuelan","Vietnamese","Welsh"],
   "recipes": [
     {
@@ -7645,6 +7645,19 @@
       "Yield":"3 servings",
       "Country/Style":"British",
       "Keywords":"Thick cabbage",
+      "Rating":""
+    },
+    {
+      "Record No.":"598",
+      "Title":"Mussel and fennel chowder",
+      "Category":"Soups",
+      "Ingredients":"1.2kg mussels, rinsed\n160ml water\n75g streaky bacon, chopped\n20g butter\n1 fennel bulb, diced\n1 medium onion, diced\n1 red pepper, diced\n¼ tsp fennel seeds, finely chopped\n300g potatoes, diced into bite-sized cubes\n300ml double cream\nsalt, to taste\nSeasonings, to taste, optional:\ncrispy pork rinds, chopped\nFennel fronds finely chopped\nFresh parsley finely chopped\nFresh basil finely chopped\nSalt and fresh ground black pepper",
+      "Preparation":"Rinse the mussels in water and discard any ones with broken shells or that are already open.\nTo make the broth, bring 2 cups of water to a boil in a large stock pot. Add the mussels, cover the potk and steam them for about 2-3 minutes. Open the lid and stir them around and then put the lid back on and steam for another 2 minutes until all the shells are open. Strain the broth with a fine mesh strainer (or layer a regular strainer with fine mesh cheesecloth). You’ll get about 1 quart of mussels broth. Set the broth aside.\nRemove the mussels from the shells and set them aside too. It will help to have someone helping you with this part!\nHeat a medium-sized stock pot over low heat and add the salt pork. Cook until the fat renders a few tablespoons. Turn the heat up and brown the salt pork for a few more minutes. Be careful not to burn it. Once browned, remove the salt pork but leave the fat.\nAdd the onions, fennel, red pepper and fennel seed and saute about 5 to 7 minutes, stirring occasionally, until softened. Add butter for additional cooking fat, if needed.\nAdd the mussel broth. Bring to a boil.\nAdd the potatoes. Bring to a boil again and cover. Lower heat to a steady boil (but not an overly aggressive boil) and cook about 10 to 12 minutes until potatoes are cooked through.\nAdd 1 cup of heavy cream and taste. Add up to 1 more cup of heavy cream to desired taste.\nAdd the mussel meats and stir in.\nAdd salt, to taste.\nLadle into individual bowls and add optional seasonings, to taste.",
+      "Preparation Time":"40 minutes",
+      "Cook Time":"20 minutes",
+      "Yield":"4 servings",
+      "Country/Style":"American",
+      "Keywords":"",
       "Rating":""
     }
   ]
