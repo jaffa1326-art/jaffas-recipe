@@ -1,5 +1,5 @@
 ﻿{
-  "Database Version": 67,
+  "Database Version": 68,
   "categories": ["Accompaniments/Side Dishes","Beverages","Breads","Cakes, Pastries & Biscuits","Confectionery","Desserts","Dressings & Dips","Ice Creams & Sorbets","Main Courses","Marinades & Sauces","Pâtés & Terrines","Preserves, Relishes & Pickles","Salads","Soups","Snacks","Starters, Appetizers & Hors d'oeuvres"],
   "styles": ["Alsace","American","Asian","Australian","Austria","Belgian","Bolivian","Brazilian","British","British-Indian","Burmese","Caribbean","Chilean","Chinese","Creole","Czech","Danish","Dutch","Egyptian","English","Finish","French","Georgian","German","Greek","Hungarian","Indian","Indonesian","International","Irish","Israeli","Italian","Jamaican","Japanese","Korean","Lebanese","Luxembourg","Malaysian","Mauritian","Mediterranean","Mexican","Middle Eastern","Nepalese","New Zealand","Norwegian","Pakistani","Palestinian","Papua New Guinea","Peruvian","Philippino","Polish","Portuguese","Russian","Scottish","Spanish","Sri Lankan","Swedish","Swiss","Taiwanese","Thai","Turkish","Ukrainian","Venezuelan","Vietnamese","Welsh"],
   "recipes": [
@@ -7656,6 +7656,19 @@
       "Preparation Time":"40 minutes",
       "Cook Time":"20 minutes",
       "Yield":"4 servings",
+      "Country/Style":"American",
+      "Keywords":"",
+      "Rating":""
+    },
+    {
+      "Record No.":"599",
+      "Title":"Chicken Alfredo",
+      "Category":"Main Courses",
+      "Ingredients":"100g dried fettuccine\n1 chicken breast\n1 tbsp oil\n60g butter\n4 cloves garlic, minced\n120ml heavy cream\n50g grated Parmesan, plus more for serving\n¼ tsp ground nutmeg\nCoarsely chopped fresh parsley leaves, for serving\nsalt\nblack pepper",
+      "Preparation":"Boil the dried fettuccine until al dente, 8 to 10 minutes. Reserve 1/2 cup of the pasta cooking water, then drain the pasta.\nMeanwhile, season the chicken. Heat 2 tablespoons neutral oil in a large frying pan over medium-high heat for 2 to 3 minutes. Add the chicken and cook, without touching, until the bottom is golden-brown and releases easily from the pan, 5 to 7 minutes. Turn the chicken over and add ½ tablespoon of butter. Cook the chicken for 5 to 7 minutes more.\nTransfer the chicken to a plate and let rest for 3 minutes. Cut into 1/2-inch-thick slices. Cover with aluminum foil while you prepare the rest of the dish.\nAdd the remaining butter to the same pan used for the chicken and place over medium heat until melted. Add the minced garlic and sauté until fragrant, 30 seconds to 1 minute. Whisk the cream, Parmesan, ground nutmeg, salt, and black pepper into the butter. Simmer for 3 to 4 minutes. If the sauce is too thick, add some of the reserved pasta cooking water, a few tablespoons at a time, to thin it out.\nAdd the drained fettuccine and chicken pieces to the sauce and toss to coat. Divide the pasta among serving bowls and garnish with parsley, more Parmesan, and black pepper if desired.",
+      "Preparation Time":"10 minutes",
+      "Cook Time":"15 minutes",
+      "Yield":"2 servings",
       "Country/Style":"American",
       "Keywords":"",
       "Rating":""
