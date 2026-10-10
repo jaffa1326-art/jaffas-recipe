@@ -1,5 +1,5 @@
 ﻿{
-  "Database Version": 73,
+  "Database Version": 74,
   "categories": ["Accompaniments/Side Dishes","Beverages","Breads","Cakes, Pastries & Biscuits","Confectionery","Desserts","Dressings & Dips","Ice Creams & Sorbets","Main Courses","Marinades & Sauces","Pâtés & Terrines","Preserves, Relishes & Pickles","Salads","Soups","Snacks","Starters, Appetizers & Hors d'oeuvres"],
   "styles": ["Alsace","American","Asian","Australian","Austria","Belgian","Bolivian","Brazilian","British","British-Indian","Burmese","Caribbean","Chilean","Chinese","Creole","Czech","Danish","Dutch","Egyptian","English","Finish","French","Georgian","German","Greek","Hungarian","Indian","Indonesian","International","Irish","Israeli","Italian","Jamaican","Japanese","Korean","Lebanese","Luxembourg","Malaysian","Mauritian","Mediterranean","Mexican","Middle Eastern","Nepalese","New Zealand","Norwegian","Pakistani","Palestinian","Papua New Guinea","Peruvian","Philippino","Polish","Portuguese","Russian","Scottish","Spanish","Sri Lankan","Swedish","Swiss","Taiwanese","Thai","Turkish","Ukrainian","Venezuelan","Vietnamese","Welsh"],
   "recipes": [
@@ -6176,19 +6176,6 @@
       "Yield":"4 servings",
       "Country/Style":"British-Indian",
       "Keywords":"omlette, potato, cauliflower, spicy",
-      "Rating":""
-    },
-    {
-      "Record No.":"484",
-      "Title":"Lamb vindaloo",
-      "Category":"Main courses",
-      "Ingredients":"650g boneless lamb shoulder, cut into chunks of about 4cm\n100 ml red wine vinegar\n2 tbsp vegetable oil\n2 bay leaves\n500 g potatoes, peeled and cut into 2.5cm chunks\n1 handful flaked sea salt\n125 ml vegetable oil\n4 onions, 3 thinly sliced and 1 chopped\n6 garlic cloves, roughly chopped\n3 long red chillies (do not deseed), roughly chopped\n25 g fresh root ginger, peeled and roughly chopped\n1 tbsp English mustard powder\n1 tbsp ground cumin\n1 tbsp ground coriander\n1 tbsp ground paprika\n2 tsp ground turmeric\n2 tsp cayenne pepper6 ",
-      "Preparation":"Trim the lamb, discarding any really hard lumps of fat and sinew. Mix the vinegar and vegetable oil with 2 teaspoons of sea salt in a non-metallic bowl until well combined, then add the lamb and turn it to coat in the marinade. Cover and leave in the fridge for 2 hours to marinate.\nFor the sauce, heat 3 tablespoons of the oil in a large heavy-based frying pan. Cook the sliced onions very gently over a medium-low heat for 15 minutes until they’re softened and lightly browned, stirring occasionally.\nWhile the onions are cooking, put the remaining chopped onion with the garlic, chillies, ginger, mustard powder, cumin, coriander, paprika, turmeric, cayenne pepper and cinnamon in a food processor and blend to a pure´e. Stir this pure´e into the fried onions.\nAdd 2 tablespoons of oil and cook together for 5 minutes, or until the sauce has thickened and is beginning to colour. Tip the mixture into a flameproof casserole dish.\nDrain the lamb in a colander over a bowl, reserving the marinade.\nReturn the frying pan to the heat and add 2 tablespoons of the remaining oil.\nFry the lamb over a medium high heat, turning occasionally until lightly browned – do this in 4 or 5 batches, adding a little extra oil if necessary. Add each batch of lamb to the casserole as it is browned.\nPreheat the oven to 180°C/160°C Fan/Gas 4.\nPour the reserved marinade and 500ml water into the casserole dish, then add 2 teaspoons of salt and the bay leaves and bring to a simmer. Cover the surface of the curry with a piece of greaseproof paper, then put a lid on the dish. Cook in the oven for 45 minutes.\nRemove the casserole from the oven and stir the potato chunks into the curry. Replace the greaseproof paper and the lid and continue to cook for a further hour or until the lamb and potatoes are very tender. Check the seasoning and add salt to taste.\nServe with some rice or warmed naan bread and a bowl of cooling yoghurt on the side.",
-      "Preparation Time":"2 hours",
-      "Cook Time":"65 minutes",
-      "Yield":"3 servings",
-      "Country/Style":"Indian",
-      "Keywords":"lamb, vinegar, potato, curry, spicy",
       "Rating":""
     },
     {
