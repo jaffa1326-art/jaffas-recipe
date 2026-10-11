@@ -1,6 +1,6 @@
 ﻿{
-  "Database Version": 75,
-  "categories": ["Accompaniments/Side Dishes","Beverages","Breads","Cakes, Pastries & Biscuits","Confectionery","Desserts","Dressings & Dips","Ice Creams & Sorbets","Main Courses","Marinades & Sauces","Pâtés & Terrines","Preserves, Relishes & Pickles","Salads","Soups","Snacks","Starters, Appetizers & Hors d'oeuvres"],
+  "Database Version": 76,
+  "categories": ["Accompaniments/Side Dishes","Beverages","Breads","Cakes, Pastries & Biscuits","Confectionery","Desserts","Dressings & Dips","Ice Creams & Sorbets","Main Courses","Marinades & Sauces","Pâtés & Terrines","Preserves, Relishes & Pickles","Salads","Snacks","Soups","Starters","Starters, Appetizers & Hors d'oeuvres"],
   "styles": ["Alsace","American","Asian","Australian","Austria","Belgian","Bolivian","Brazilian","British","British-Indian","Burmese","Caribbean","Chilean","Chinese","Creole","Czech","Danish","Dutch","Egyptian","English","Finish","French","Georgian","German","Greek","Hungarian","Indian","Indonesian","International","Irish","Israeli","Italian","Jamaican","Japanese","Korean","Lebanese","Luxembourg","Malaysian","Mauritian","Mediterranean","Mexican","Middle Eastern","Nepalese","New Zealand","Norwegian","Pakistani","Palestinian","Papua New Guinea","Peruvian","Philippino","Polish","Portuguese","Russian","Scottish","Spanish","Sri Lankan","Swedish","Swiss","Taiwanese","Thai","Turkish","Ukrainian","Venezuelan","Vietnamese","Welsh"],
   "recipes": [
     {
@@ -4087,7 +4087,7 @@
     },
     {
       "Record No.":"319",
-      "Title":"Stuffed Peppers",
+      "Title":"Stuffed Peppers 1",
       "Category":"Starters",
       "Ingredients":"4 Green or red capsicum, sliced in half \n6-8 shallots, sliced and chopped\n8 cherry tomatoes, chopped\n4 rashers of bacon, chopped\n1 tbsp honey\n1 tbsp chipotle sauce\n60g parmesan, grated\nsalt\nblack pepper\nolive oil",
       "Preparation":"Place the capsicum in an oven-proof dish, season and drizzle with olive oil. Roast in the oven at 190°C(180°C fan) for 10 minutes. Meanwhile, fry the bacon for 5 minutes. Blend the shallots, tomatoes, honey and chipotle and season well. Add to the bacon and fry over a medium heat for 10 minutes, stirring frequently.\n\nAfter the capsicum have roasted for 10 minutes, remove from the oven and stuff with the shallot mix then return to the oven for another 20 minutes.\n\nRemove from the oven, sprinkle with the parmesan and then finish in the oven for another 5-10 minutes so that the cheese has melted and is bubbling,",
