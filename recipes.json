@@ -1,5 +1,5 @@
 ﻿{
-  "Database Version": 77,
+  "Database Version": 78,
   "categories": ["Accompaniments/Side Dishes","Beverages","Breads","Cakes, Pastries & Biscuits","Confectionery","Desserts","Dressings & Dips","Ice Creams & Sorbets","Main Courses","Marinades & Sauces","Pâtés & Terrines","Preserves, Relishes & Pickles","Salads","Snacks","Soups","Starters","Starters, Appetizers & Hors d'oeuvres"],
   "styles": ["Alsace","American","Asian","Australian","Austria","Belgian","Bolivian","Brazilian","British","British-Indian","Burmese","Caribbean","Chilean","Chinese","Creole","Czech","Danish","Dutch","Egyptian","English","Finish","French","Georgian","German","Greek","Hungarian","Indian","Indonesian","International","Irish","Israeli","Italian","Jamaican","Japanese","Korean","Lebanese","Luxembourg","Malaysian","Mauritian","Mediterranean","Mexican","Middle Eastern","Nepalese","New Zealand","Norwegian","Pakistani","Palestinian","Papua New Guinea","Peruvian","Philippino","Polish","Portuguese","Russian","Scottish","Spanish","Sri Lankan","Swedish","Swiss","Taiwanese","Thai","Turkish","Ukrainian","Venezuelan","Vietnamese","Welsh"],
   "recipes": [
@@ -4798,19 +4798,6 @@
       "Yield":"2 servings",
       "Country/Style":"Indian",
       "Keywords":"chicken, curry, spicy",
-      "Rating":""
-    },
-    {
-      "Record No.":"374",
-      "Title":"Chicken Bao",
-      "Category":"Main courses",
-      "Ingredients":"150 g flour\n½ tsp. yeast\n½ tsp. sugar\n½ tbsp. oil\n70 ml water\n\nFor the bao filling\n3 tbsp. oil\n2 small shards cinnamon\n½ tsp. nigella seeds\n70 g onion, thinly sliced\n¼ tsp. fenugreek seeds\n200 g boneless skinless chicken thigh, cut into chunks\n½ tbsp. garlic paste\n1 tsp. turmeric\n1 tsp. dried red chilli flakes\n½ tsp. ground coriander\n¼ tsp.salt\n¼ tsp. pepper\n2 tomatoes, diced\n200 ml water\n1 tbsp. coriander, finely chopped\n1 green finger chilli, thinly sliced",
-      "Preparation":"To make dough: put all ingredients into a stand mixer on low setting until combined. Turn up the speed to medium for 10 minutes until the dough feels smooth. (You can do this by hand too but you’ll have to knead a bit longer). Prove in a covered bowl in a warm place for 2 hours.\nSpain Holidays 2022 - Package Holidays You Can Trust\nAd\nwww.jet2holidays.com/Spain/Holidays\nSpain Holidays 2022 - Package Holidays You Can Trust\nMeanwhile, add oil to a pan on high heat. Add cinnamon, nigella seeds and onions. Fry onions until golden. Add fenugreek seeds, stir and then toss in chicken thighs. Stir fry for five minutes before adding garlic. Stir fry for another 2 minutes. Then add turmeric, chilli flakes, ground coriander, salt, pepper, tomatoes and water. Put lid on the pan and simmer.\nCook for 20-25 minutes until chicken is tender (add a splash more water if needed). Then turn heat to high and stir fry for 3-5 minutes until extra liquid in the pan has evaporated. Mash chicken with the back of a spoon to shred it. Add coriander and fresh green chilli. Cool and refrigerate.\nOnce dough has proved, turn onto a floured work surface, and knead by hand for three minutes and roll out thinly into a rough rectangle. Take edge of dough nearest to you and roll it away from yourself to create a long Swiss roll. Cut into 8 equal pieces, place cut sides down on the counter and gently flatten each piece with the palm of your hand. Roll each disc out using a rolling pin. Thin out the edges of each disc with your rolling pin so the centre remains slightly thicker and the discs are 12-13cm in diameter. Repeat with all dough balls and set aside with a scattering of flour in between each one to prevent sticking.\nTo fill the bao, put disc of dough in your left palm (if right handed) and fill the centre with 1 ½ tbsp of chicken curry. Pinch edge of dough to make a small pleat between your right thumb and forefinger. Then, using your left thumb, push a pleat of dough towards your right thumb and forefinger and pinch it between them again. Repeat this action all the way around the edge of dough to create a series of pleats around the filling. Twist and press the final pleat down to seal well. Place bao on the counter and gently reshape to a circle again. Repeat until all buns are filled. Place on a sheet of greaseproof paper and cover with a damp cloth. Prove for 20 mins.\nTo cook, place bao buns in a hot steamer, while still on the greaseproof. Leave a 2cm gap between each bun and the sides of your steamer as they will swell. Steam in two batches if required. Put the lid on and steam for 15 mins. Serve as they are or with your favourite dipping sauce.",
-      "Preparation Time":"20 minutes",
-      "Cook Time":"2 hours 50 minutes",
-      "Yield":"8 buns",
-      "Country/Style":"Chinese",
-      "Keywords":"chicken, dumplings, spicy",
       "Rating":""
     },
     {
