@@ -1,5 +1,5 @@
 ﻿{
-  "Database Version": 86,
+  "Database Version": 87,
   "categories": ["Accompaniments/Side Dishes","Beverages","Breads","Cakes, Pastries & Biscuits","Confectionery","Desserts","Dressings & Dips","Ice Creams & Sorbets","Main Courses","Marinades & Sauces","Pâtés & Terrines","Preserves, Relishes & Pickles","Salads","Snacks","Soups","Starters","Starters, Appetizers & Hors d'oeuvres"],
   "styles": ["Alsace","American","Asian","Australian","Austria","Belgian","Bolivian","Brazilian","British","British-Indian","Burmese","Caribbean","Chilean","Chinese","Creole","Czech","Danish","Dutch","Egyptian","English","Finish","French","Georgian","German","Greek","Hungarian","Indian","Indonesian","International","Irish","Israeli","Italian","Jamaican","Japanese","Korean","Lebanese","Luxembourg","Malaysian","Mauritian","Mediterranean","Mexican","Middle Eastern","Nepalese","New Zealand","Norwegian","Pakistani","Palestinian","Papua New Guinea","Peruvian","Philippino","Polish","Portuguese","Russian","Scottish","Spanish","Sri Lankan","Swedish","Swiss","Taiwanese","Thai","Turkish","Ukrainian","Venezuelan","Vietnamese","Welsh"],
   "recipes": [
@@ -7619,6 +7619,19 @@
       "Yield":"4 servings",
       "Country/Style":"American",
       "Keywords":"",
+      "Rating":""
+    },
+    {
+      "Record No.":"599",
+      "Title":"Pão de queijo",
+      "Category":"Breads",
+      "Ingredients":"250ml whole milk\n125g butter\n1 tsp salt\n300g tapioca flour\n2 eggs\n100g parmesan, grated\nButter, for the baking sheet",
+      "Preparation":"Heat the oven to 220C/200C fan/gas 7. Oil or butter a baking sheet and set aside.\n\nHeat the milk, butter and salt in a medium saucepan and bring to a boil. Remove from the heat and add the tapioca flour. Stir vigorously, then leave to cool a little.\n\nPour the dough into a standing mix to beat the dough until its cool, or use a wooden spoon and beat by hand. Beat the eggs in one at a time, waiting until each is completely incorporated before adding the next. When the dough is glossy and mixed, add the parmesan. Beat again until mixed.\n\nSpoon the dough onto the baking sheet in 1 tbsp balls, 5cm apart. Bake for 30 mins until crisp and golden. Remove from the oven and eat while still warm.",
+      "Preparation Time":"20 minutes",
+      "Cook Time":"30 minutes",
+      "Yield":"24 puffs",
+      "Country/Style":"Brazilian",
+      "Keywords":"Snacks, puffs, cheese",
       "Rating":""
     }
   ]
