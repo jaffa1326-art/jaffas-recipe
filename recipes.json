@@ -2540,7 +2540,7 @@
       "Country/Style": "British",
       "Keywords": "wine, port, vodka",
       "Cook Time": "5 minutes",
-      "Preparation": "Pour ¼ bottle of the red wine into a pan, add the spices and heat until warm but not boiling. Allow to cool. Pour into a punch bowl with the rest of the wine, port and vodka. Add the tangerine slices and top up witht the soda water just before serving.",
+      "Preparation": "Pour ¼ bottle of the red wine into a pan, add the spices and heat until warm but not boiling. Allow to cool. Pour into a punch bowl with the rest of the wine, port and vodka. Add the tangerine slices and top up with the soda water just before serving.",
       "Ingredients": "1 bottle red wine\n4 cinnamon sticks\n8 star anise\n400 ml port\n400ml vodka\n1 tangerine\n1 litre soda water",
       "Rating": 0,
       "Record No.": "200",
@@ -7658,7 +7658,7 @@
       "Preparation Time": "5 minutes"
     }
   ],
-  "Database Version": 97,
+  "Database Version": 98,
   "styles": [
     "Alsace",
     "American",
