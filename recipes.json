@@ -1,12 +1,12 @@
 ﻿{
-  "Database Version": 96,
-  "categories": ["Accompaniments/Side Dishes","Beverages","Breads","Cakes, Pastries & Biscuits","Confectionery","Desserts","Dressings & Dips","Ice Creams & Sorbets","Main Courses","Marinades & Sauces","Pâtés & Terrines","Preserves, Relishes & Pickles","Salads","Snacks","Soups","Starters","Starters, Appetizers & Hors d'oeuvres"],
+  "Database Version": 97,
+  "categories": ["Accompaniments & Side Dishes","Beverages","Breads","Cakes, Pastries & Biscuits","Confectionery","Desserts","Dressings & Dips","Ice Creams & Sorbets","Main Courses","Marinades & Sauces","Pâtés & Terrines","Preserves, Relishes & Pickles","Salads","Snacks","Soups","Starters, Appetizers & Hors d'oeuvres"],
   "styles": ["Alsace","American","Asian","Australian","Austria","Belgian","Bolivian","Brazilian","British","British-Indian","Burmese","Caribbean","Chilean","Chinese","Creole","Czech","Danish","Dutch","Egyptian","English","Finish","French","Georgian","German","Greek","Hungarian","Indian","Indonesian","International","Irish","Israeli","Italian","Jamaican","Japanese","Korean","Lebanese","Luxembourg","Malaysian","Mauritian","Mediterranean","Mexican","Middle Eastern","Nepalese","New Zealand","Norwegian","Pakistani","Palestinian","Papua New Guinea","Peruvian","Philippino","Polish","Portuguese","Russian","Scottish","Spanish","Sri Lankan","Swedish","Swiss","Taiwanese","Thai","Turkish","Ukrainian","Uzbek","Venezuelan","Vietnamese","Welsh"],
   "recipes": [
     {
       "Record No.":"1",
       "Title":"Adzhar Style Khachapuri",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"PASTRY\n500g Plain flour\n2 Eggs\n15 g Yeast\n200 ml Water or milk\n2 tbsp Butter\n1 tsp Sugar\nPinch Salt\n\nFILLING\n500g Cheese, mixture of cheddar, mozarella and feta\n5 Eggs\n1 tbsp Butter",
       "Preparation":"Dissolve the yeast and sugar in the water/milk then add the salt. Add one egg, flour, butter and mix to form the pastry dough. Rest until the fermentation is complete and the volume has doubled.\nDivide the pastry into 10 portions, roll into a round shape. In the centre of each put grated cheese. Level the filling over the circle up to 1 cm from the edge. Shape the edge of the circle to the form of a skirt, giving the appearance of a boat.\nBake at gas 7 (220°C) until nearly done. To the centre of each bread add a knob of butter, pour in an egg and replace in the oven. Bake until the egg has just coagulated, then serve.",
       "Preparation Time":"2 hrs 40 mins.",
@@ -19,7 +19,7 @@
     {
       "Record No.":"2",
       "Title":"Bill's Onion",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"4 Medium onions\n500 g Puff pastry\n2 Eggs, beaten with a splash of milk\n60 g Butter\n2 tsp Brown sugar\nSalt\nBlack pepper",
       "Preparation":"Heat the oven to gas 4 (180°C).\nPeel the onions, cutting away a little more than usual. Cut a deep cross into the top of each onion.\nDivide the pastry into four, roll each piece into a rectangle about 2 mm thick. Cut into 2 squares that are considerably wider than the onion. Sit an onion on a square of pastry then wedge about 15 g butter into the cross shaped cuts. Sprinkle with ½ tsp sugar, salt and a really big grind of black pepper. Paint the egg mix around the edges of the pastry. Lay the other pastry square over the onion and press down gently onto the bottom square. Crimp the edges with a fork and prick a small hole in the top. Paint the pastry with the egg mix and bake in the oven for 45 minutes until they are deep golden brown.",
       "Preparation Time":"½ hour",
@@ -45,7 +45,7 @@
     {
       "Record No.":"4",
       "Title":"Guacamole",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"2 Ripe avocado pears\n1 Shallot, chopped\n1 Large tomato, peeled and chopped\n1 Red chilli, finely chopped\nSalt\nPepper\nLemon juice, to taste",
       "Preparation":"Peel the avocados and remove the stone. Mash the \nflesh with a fork until fairly smooth. Stir in the chopped tomato, shallot, chilli and lemon juice. Season to taste and place in a covered bowl in the fridge until needed.",
       "Preparation Time":"20 mins.",
@@ -58,7 +58,7 @@
     {
       "Record No.":"5",
       "Title":"Khachapuri from Puff Pastry",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"2 kg Puff pastry\n\nFILLING\n1 kg Cheese, like gruyere or emmental\n2-3 Eggs\n3 tbsp Butter\n200 g Sour cream",
       "Preparation":"Roll the pastry to a sheet of 4-5 mm thick. Divide into 10 squares. In the centre of each square place the filling of grated cheese mixed with eggs and 2 tbsp butter.\nFold the edges of the square to the centre and press together, then roll the khachapuri to the shape of a circle.\nBrush the khachapuri with egg yolk, lay in a water moistened pan and bake at gas 7 (220°C). When serving, pour some melted butter on top.",
       "Preparation Time":"45 mins.",
@@ -71,7 +71,7 @@
     {
       "Record No.":"6",
       "Title":"Pan Haggerty",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"900 g Potatoes\n50 g Butter\n2 Onions, finely chopped\n1 tbsp groundnut oil\nSalt\nBlack pepper\n100 g Cheddar cheese, grated  (Gruyere, Abondance or Emmental cheese can be used as an interesting alternative)",
       "Preparation":"Boil the potatoes in their jackets for 25-35 minutes until tender.\nDrain and leave to steam dry for a few minutes. Peel and coarsely grate.\nHeat the oven to gas 7 (220°C). Melt 1/3rd of the butter in a large frying pan and cook the onions for 5 minutes until beginning to colour. Combine them with the potatoes. Add another 1/3rd of the butter and the oil to a pan, scatter over half the potato and onion and season. Scatter over the cheese, then the remaining potato and onion, season and gently press down. Bake for 10 minutes. Loosen the pan haggerty, place a baking tray over the pan and invert. Melt the remaining butter in the pan and slide the pan haggerty back into the pan. Return the cake to the oven for a further 15-20 minutes until golden on top. Cut into wedges and serve.",
       "Preparation Time":"20 mins.",
@@ -84,7 +84,7 @@
     {
       "Record No.":"7",
       "Title":"Straw Potato and Celeriac Cake",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"500 g Potatoes, peeled\n250 g Celeriac, peeled\n1 tbsp Groundnut oil\n50 g Butter\nSalt\nBlack pepper",
       "Preparation":"Coarsely grate the potatoes and celeriac and toss together in a bowl.\nHeat the oil and 1/3rd of the butter, add the potato / celeriac mix. Press down with the back of a spoon, season and dot with another 1/3rd of the butter. Cook for about 20 minutes until a uniform golden brown, lifting the cake now and again to check the colour.\nLoosen the cake and press the mixture down again then place a baking tray over the pan and invert. Add the remaining butter and slip the cake back into the pan. Fry for another 10 minutes until gold.",
       "Preparation Time":"5 mins.",
@@ -97,7 +97,7 @@
     {
       "Record No.":"8",
       "Title":"Tomato and Chilli Salsa",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"450 g Ripe tomatoes\n1 Green chilli, finely chopped\n½ Medium onion, finely chopped\n1-2 tbsp Parsley, chopped\nSalt\nPepper\n1 tbsp Fresh lime juice",
       "Preparation":"Peel the tomatoes by plunging into boiling water for 60 seconds and then removing the skin.\nChop the peeled tomatoes and place in a serving bowl, add all the other ingredients and stir, correcting the seasoning as necessary.",
       "Preparation Time":"20 mins.",
@@ -136,7 +136,7 @@
     {
       "Record No.":"11",
       "Title":"American Blue Cheese Dressing",
-      "Category":"Dressings",
+      "Category":"Dressings & Dips",
       "Ingredients":"150 ml Sour cream\n2 tbsp Good mayonnaise\n2 cloves Garlic\n1 tsp Salt\n2 tsp Mustard powder\n2 tbsp Olive oil\n1 tbsp Balsamic vinegar\n1 tbsp Lemon juice\n40 g Blue cheese, crumbled\n2 Spring onions, finely chopped\nBlack pepper",
       "Preparation":"Crush the garlic and grind with 1 tsp salt in a pestle and mortar. Add the mustard powder and grind in. Add the lemon juice, vinegar and oil. Mix together and mix the sour cream and mayonnaise. Whisk into the dressing ingredients. When all is thoroughly blended, add the chopped onions and the crumbled cheese. Season with black pepper.",
       "Preparation Time":"20 mins.",
@@ -305,7 +305,7 @@
     {
       "Record No.":"25",
       "Title":"Bruschetta",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"1 tsp Balsamic vinegar\n3 tbsp Olive oil\n300 g Mozzarella cheese\n175 g Cherry or baby plum tomatoes\nFresh basil leaves, torn\nWild rocket leaves\n6 Thick slices of bread, toasted\n1 clove Garlic",
       "Preparation":"Toast the bread and while hot, rub over with half a clove of garlic, then drizzle with some olive oil.\nMix the vinegar with oil and season to taste. Stir in the mozzarella, tomato and basil leaves. Arrange the rocket leaves on the bread and place the dressing mix over the leaves.",
       "Preparation Time":"10 mins.",
@@ -318,7 +318,7 @@
     {
       "Record No.":"26",
       "Title":"Frijolemole",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"175 g Dried chickpeas, soaked overnight in cold water\n1 tbsp Groundnut oil\n1 Medium onion, chopped\n2 cloves Garlic, chopped\n3 Spring onions, finely chopped\n1 Fresh chilli, finely chopped\n2 tbsp Fresh lime juice\n1 Large tomato, skinned and chopped\n½ tsp Tabasco sauce\n2 tbsp Coriander leaves, chopped\n2 tbsp Sour cream\nSalt\nBlack pepper\n\nTo garnish:\nBlack olives\nParsley",
       "Preparation":"Drain the chickpeas and place in a saucepan with enough cold water to cover. Bring to the simmer and simmer gently with a lid for about 45 minutes until tender.\nHeat the oil in a small frying pan and gently sauté the onion for 5 minutes, add the garlic and cook for another 5 minutes.\nDrain the chickpeas and place in a food processor along with some salt, the sautéed onion and garlic and any oil in the pan. Now add the lime juice and blend until a smooth puree. If it's too thick, add some of the chickpea water. Should be like hummus in texture.\nEmpty into a bowl and add the tomato, chilli, spring onion, tabasco, coriander and 2 tbsp of sour cream. Taste to check seasoning and add more tabasco if necessary. Cover the bowl and chill. Serve garnished with black olives and parsley",
       "Preparation Time":"45 mins.",
@@ -331,7 +331,7 @@
     {
       "Record No.":"27",
       "Title":"Piedmont Roasted Peppers",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"4 Large red peppers\n4 Medium tomatoes\n8 Anchovy fillets, tinned, drained\n2 cloves Garlic\n8 dessertspoons Olive oil\nBlack pepper\n1 Small bunch Basil leaves",
       "Preparation":"Cut the peppers in half and remove the seeds, leaving the stalks on the halves. Lay the peppers in a lightly oiled, SHALLOW roasting tray. Put the tomatoes in a bowl and pour over boiling water. Leave for 1 minute, drain and slip the skins off using a cloth. Cut into quarters and place two quarters into each pepper half.\nSnip one anchovy fillet per pepper half into rough pieces and add to the tomatoes. Peel the garlic cloves, slice them thinly and divide between the peppers. Spoon 1 dessertspoon of oil over each pepper half, season with the black pepper. Place the tray on a high oven shelf and roast for 50 minutes to 1 hour at gas 4 (180°C).\nTransfer the peppers to a serving dish, with the juices poured over and garnish with a few basil leaves.",
       "Preparation Time":"15 mins.",
@@ -344,7 +344,7 @@
     {
       "Record No.":"28",
       "Title":"Rice Paper Rolls and Peanut Sauce",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"50 g Thin rice noodles\n50 g Rocket\n1 Red onion, sliced into half moons\n2 Carrots, cut into matchsticks\n1 Small bunch of coriander\n12 Rice paper wrappers\n1 Small bunch of mint, stems discarded\n\nPEANUT SAUCE\n5 tbsp Hoisin sauce\n3 tbsp Smooth peanut butter\n1 tbsp Sesame oil\n1 tsp Chilli sauce",
       "Preparation":"Mix the sauce ingredients in a small bowl, Add 3 tbsp water, mix again and then pour into a small serving bowl.\nPour boiling water over the noodles and leave for 3 minutes until soft. Rinse under cold water, drain, put onto a tea towel and cut into 12 cm lengths with scissors.\nPut the vegetables, herbs and noodles in separate piles on a tray.\nPour hot water into a bowl then drop in the rice paper and leave for 30 seconds until soft. Remove and drain with kitchen towel. Put two mint leaves on the top portion of the wrapper and the vegetable mix on the lower side of the circle. Bring up the lower side of the rice circle over the vegetables and then fold in the sides. Roll up into a tight spring roll. Place seam side down onto a tray.\nServe the rolls whole or cut diagonally just before serving.\nServe with the peanut sauce.",
       "Preparation Time":"45 mins.",
@@ -357,7 +357,7 @@
     {
       "Record No.":"29",
       "Title":"Rösti Crab Cakes",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"225 g Crabmeat\n150 g Waxy potatoes\n2 tbsp Capers, drained and chopped coarsely\n1 tbsp Fresh lime juice\n1 tsp Lime zest\n2 Spring onions, finely chopped\n2 pinches Cayenne pepper\n2 tbsp chopped coriander or parsley\nSalt\nBlack pepper\nGroundnut oil for frying\nLime quarters",
       "Preparation":"Boil the unpeeled potatoes for exactly 10 minutes in salted water. Measure all the other ingredients into a bowl and mix thoroughly. When the potatoes are cooked, peel and grate coarsely into long strips.\nCombine the grated potato with the crab mix. Form into eight cakes, cover with clingfilm and leave in a fridge for 2 hours to chill and firm.\nHeat 1½ tbsp oil in a frying pan until very hot. Cook the cakes for 3 minutes a side turning the heat to medium.\nServe garnished with lime slices and chopped coriander or parsley.",
       "Preparation Time":"2 hours 20 mins",
@@ -370,7 +370,7 @@
     {
       "Record No.":"30",
       "Title":"Seared Scallops and Parsnip Mash",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"6-8 Scallops\n2 Small parsnips, peeled and diced\n2 Leeks\n45 g Butter\n7.5 g Lemon thyme\n2 tbsp Fromage frais",
       "Preparation":"Season the scallops and set aside.\nCook the parsnips in boiling, salted water for about 12-15 minutes, until tender. Drain and mash with a fork. Set aside.\nSlice the leeks, wash thoroughly and drain. Melt 2/3rds of the butter in a frying pan and cook the leeks over a low heat for 7-10 minutes until soft. Stir in the parsnips, thyme and fromage frais. Season to taste.\nHeat a frying pan and add the remaining butter. Pan fry the scallops for 2-3 minutes until golden brown. Spoon the leek and parsnip mash onto plates and arrange the scallops on top.",
       "Preparation Time":"10 mins.",
@@ -383,7 +383,7 @@
     {
       "Record No.":"31",
       "Title":"Sweet Soused Herring with Salad",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"4 Small herrings, filleted and trimmed\n\nMARINADE\n150 ml Water\n100 ml White wine\n3 tbsp White wine vinegar\n1 tbsp Demerara sugar\n1 tsp Pickling spices\n2 Shallots\n1 Bay leaf\n\nSALAD\n2 Medium potatoes\n6 tbsp Olive oil\n3 tsp Lemon juice\nSalt\nPepper\n½ Small cucumber\n2-3 Medium beetroots, cooked\n4 tbsp Sour cream\n2 tsp Chopped chives",
       "Preparation":"Sprinkle the herrings with salt and leave to drain for a few hours. Rinse and dry.\nAdd all marinade ingredients to a pan. Boil and simmer for 15 minutes. Cool and pour over the herring. Marinade in the fridge for 24 hours.\nBoil the potatoes, cool and crush with a fork. Add 2 tbsp oil and 2 tbsp lemon juice. Stir in and season. Leave to cool.\nPeel the cucumber and slice into 3 mm wide strips. Mix with salt and drain for 20 - 30 minutes. Peel and slice the beets into ¼ inch slices, season with salt and pepper. Add 2 tbsp sour cream to the potatoes along with 1 tsp chives.\nRemove the herring from the marinade. Strain the marinade through a fine sieve. Whisk 4 tbsp of the strained marinade into the oil with the last of the lemon juice, season with salt and pepper. Use this to flavour the beetroot slices.\nThe potatoes can be made into a tower with slices of beetroot; 3 spoons of potato to 3 slices of beetroot.\nPlace the cucumber slices on top of the herrings.\nAdd the remaining chives (1 tsp) to the oil dressing and spoon over and around the plate with drizzles of the remaining sour cream.",
       "Preparation Time":"1½ hours + 24hrs in fridge",
@@ -396,7 +396,7 @@
     {
       "Record No.":"32",
       "Title":"Thick Onion Tart",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"PASTRY\n50 g Self-raising flour\n50 g Wholewheat flour\n1 Pinch Salt\n½ tsp Mustard powder\n50 g Butter\n40 g Cheddar cheese\n\nFILLING\n700 g Onions, finely chopped\n50 g Butter\n2 Eggs, beaten\n110 g Double cream, yoghurt or milk\n1 tbsp Cheddar cheese, grated\nSalt\nBlack pepper4 servings",
       "Preparation":"Grease an 8 inch flan tin.\nSift the flour, salt and mustard powder. Rub in the butter until crumbly.\nStir in the cheese. Add water until a dough forms.\nWrap and rest in the fridge for 30 minutes.\nMelt the butter, add chopped onions. Cook slowly for ½ hour until deep brown and caramelised.\nRoll out the pastry and line the flan tin.\nPrick the base of the pastry and bake for 15 minutes at Gas 4.\nBrush with beaten egg and bake for 5 minutes.\nSpread the onions over the base. Whisk the eggs with the cream and seasoning. Pour over the onions and sprinkle with cheese. Bake for 30 minutes until golden.",
       "Preparation Time":"30 mins.",
@@ -409,7 +409,7 @@
     {
       "Record No.":"33",
       "Title":"Tomato and Mozzarella Tarts",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"375 g Puff pastry\n4 tsp Basil pesto\n2 Plum tomatoes, sliced\n125 g Mozzarella, sliced\nOlive oil\nSalt\nBlack pepper",
       "Preparation":"Preheat the oven to gas 6 (200°C). Cut the pastry into four circles each of 10 cm diameter. With a sharp knife, mark a 1 cm border around the edge of each circle then prick the centre of each piece all over with a fork.\nSpread the pesto over the centre of the pastry, wrap in clingfilm and chill for 15 minutes.\nRemove the clingfilm, arrange the tomato and mozzarella slices on top of the pesto then drizzle a little oil over and season.\nBake for 20-25 minutes, or until golden brown. Serve garnished with basil.",
       "Preparation Time":"5 mins",
@@ -461,7 +461,7 @@
     {
       "Record No.":"38",
       "Title":"Indonesian Chicken Sate",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"340g Chicken breast\n6 tbsp Soy sauce\nJuice of one lemon\n1 tbsp Soft brown sugar\n1 Clove garlic\n3cm fresh ginger root\n4 tbsp Peanut butter",
       "Preparation":"Cut the chicken into cubes. Combine the soy sauce, lemon juice, sugar, garlic and ginger. Marinate the chicken in the mix for 2 - 8 hours. Thread onto skewers.\nPlace peanut butter into a pan with 8 fl oz water and add the marinade juices. Heat and simmer for 3 - 5 minutes. Allow the sauce to stand.\nGrill the chicken and serve with the sauce.",
       "Preparation Time":"30 mins.",
@@ -474,7 +474,7 @@
     {
       "Record No.":"39",
       "Title":"Aloo Tikka",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"675 g Potatoes, boiled and mashed\n2 tbsp Coriander, chopped\n1 Small onion, finely chopped\n1 tbsp Ginger, minced\n2 tbsp Curry paste\nSalt\nOil for shallow frying\n\nBatter:\n100 g Gram flour\n150 ml Water",
       "Preparation":"Mix all the ingredients together and leave to marinate for ½ hour.\nWith a little oil in the palm of your hand, mould the potato mixture into small, round patties.\nMake a thick batter with the gram flour. Heat the oil.\nCoat the patties in the batter and fry each side for 5 minutes until crisp and golden brown.",
       "Preparation Time":"45 mins.",
@@ -487,7 +487,7 @@
     {
       "Record No.":"40",
       "Title":"Cauliflower and Tomato Bhaji",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"3 tbsp Oil\n3 - 4 Bay leaves\n1 tsp White cumin seeds\n1 Large onion, finely chopped\n2 Cloves garlic\n1 tsp Ginger, minced\n2 tbsp Curry paste\nSalt\n120 ml Chopped, tinned tomatoes\n1 Medium cauliflower, cut into small florets\n300 ml Water",
       "Preparation":"Heat the oil. Add the bay leaves, cumin seeds and onions. Fry for 5 minutes until the onions are soft and golden brown. Add the garlic and ginger. Fry until dark brown. Add the curry paste, salt and tinned tomatoes and stir-fry for a further 2 minutes. Stir in the cauliflower and water and bring to the boil. Cover and simmer for 15 minutes or until the cauliflower is just cooked.",
       "Preparation Time":"10 mins.",
@@ -591,7 +591,7 @@
     {
       "Record No.":"48",
       "Title":"Colcannon",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"6 Medium potatoes, peeled and cut into chunks\n1 Savoy cabbage, cut into large shreds\n5 tbsp Double cream\n5 Spring onions, sliced\n50 g Butter, cubed\nPinch of nutmeg\nSalt\nGround pepper",
       "Preparation":"Cook the potatoes in salted water until tender. Cook the cabbage in boiling water for just 5 - 7 minutes so that it retains it's bite.\nGently heat the cream with the spring onions. Drain the potatoes and mash with the cream, spring onions and butter.\nAdd the cooked cabbage and season with nutmeg, salt and pepper. Mix and serve straight away.",
       "Preparation Time":"40 mins.",
@@ -734,7 +734,7 @@
     {
       "Record No.":"59",
       "Title":"John's Liver Pâté",
-      "Category":"Pâtés",
+      "Category":"Pâtés & Terrines",
       "Ingredients":"240g Lean pork, top of leg, diced\n115g Pig's liver, chopped\n85g Chicken liver, chopped\n230g Streaky bacon, chopped\n1 Egg\n1½ Glasses Dry white wine\n1 tot Brandy\n1 tbsp Tomato purée\n½ Medium onion\n3 Large cloves garlic\n1 tsp Black pepper\n30 whole black peppercorns\n¼ tsp Ground cloves\n¼ tsp Ground bay leaf\n¼ tsp Ground nutmeg\n1 tsp Salt\n¼ tsp Cayenne pepper\n\nGlaze:\n170g Mushrooms, sliced\n1 Red or green pepper, thinly sliced\n4 whole bay leaves\nGelatine",
       "Preparation":"Place all ingredients in a mixing bowl and blend together to make a coarse mix. Place the mix in a pâté bowl. Place the bowl in a baking tray and add 1 inch water. Bake at gas 3 for 2 hours.\nRemove from the oven and fit the pâté press. Compress the cooked pâté and leave overnight in the refrigerator.\nMake up the gelatine solution and add the mushrooms, pepper and bay leaves. Pour the gelatine mix over the top of the pâté and place in the refrigerator to set.",
       "Preparation Time":"1 hour",
@@ -747,7 +747,7 @@
     {
       "Record No.":"60",
       "Title":"Monkfish Tempura",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"1 Monkfish tail fillet, cut into angled slices\n1 Egg, white only\nDash of double cream\n1 - 2 tbsp Plain flour seasoned with salt and pepper\nOil for frying\n5 Spring onions\n2 tbsp Soy sauce\n2 tbsp Lemon juice",
       "Preparation":"Pre-heat a deep-fat fryer to 190°C or heat about 2 inches oil in a wok.\nWhisk together the egg white and cream and dip the fish pieces into this mixture, then coat the fish in seasoned flour, massaging the flour into the flesh so that it is covered in a thick crumbly layer.\nDeep-fry the fish until crisp and golden brown; drain on kitchen paper. Deep fry the spring onion tops until wilted and drain also.\nMix together the soy sauce and lemon juice. Serve the tempura piled on a plate garnished with the onions and drizzle the soy mix over the top. Eat at once.",
       "Preparation Time":"30 mins",
@@ -864,7 +864,7 @@
     {
       "Record No.":"69",
       "Title":"Chickpea Patties",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"800 g Chickpeas, canned\n4 Cloves garlic\n1 tsp Cumin , ground\n1 Small red onion, chopped\n20 g Fresh coriander\n2 tbsp Plain flour\nOlive oil",
       "Preparation":"Drain and rinse the chickpeas, then pat them dry with a kitchen towel. Put them in a food processor with the garlic, cumin, onion and coriander. Blend until smooth, then stir in the flour.\nWith floured hands, shape the mixture into 12 small round patties and chill in the fridge for 20 minutes.\nHeat the oil in a frying pan over a medium heat and fry the patties in batches for about 2 minutes per side until heated through and golden. Serve warm with parsley sprigs and lemon wedges.",
       "Preparation Time":"20 mins.",
@@ -1059,7 +1059,7 @@
     {
       "Record No.":"84",
       "Title":"Murgh Boti Kebab",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"340 g chicken breast , cut into cubes\n½ tsp salt\n1 tbsp lemon juice\n½ tbsp fresh ginger, grated\n1 clove garlic, crushed\n½ tsp ground cumin\n½ tsp paprika\n½ tsp cayenne pepper\n3 tbsp tomato ketchup\nblack pepper\n¼ tsp haldi\noil\n",
       "Preparation":"Put chicken into a bowl and add salt and lemon juice. Prick the chicken and rub in.\nAfter 20 mins. add ginger, garlic, cumin, paprika, cayenne and ketchup, lots of black pepper and haldi. Mix well, cover and refrigerate overnight.\nBrush with oil and BBQ.\n",
       "Preparation Time":"20 mins.",
@@ -1072,7 +1072,7 @@
     {
       "Record No.":"85",
       "Title":"Subzi Poriyal",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"400 g fresh beetroot, boiled in salt water and cooled, cubed\n50 ml oil\n1 tbsp black mustard seeds\n75 g red shallots or red onions, finely chopped\n4 fresh green chillies, finely chopped\n75 g grated coconut\nsalt\npepper",
       "Preparation":"Peel the beetroot and chop into small cubes or thin slices.\nHeat the oil, add mustard seeds and fry until they pop. Stir in the onions and the green chillies and sauté for 2-3 mins. Add grated coconut and stir fry gently until brown.\nStir in the beetroot and season with salt and pepper.\n",
       "Preparation Time":"10 mins.",
@@ -1085,7 +1085,7 @@
     {
       "Record No.":"86",
       "Title":"Kande Ki Sabzi",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"100 ml oil\n1 tsp cumin seeds\n1 tbsp garlic\n1 tbsp ginger purée\n500 g baby onions\n\nMasala:\n\n1 tsp red chilli powder\n2 tsp ground coriander\n2 tsp ground haldi\n50 g natural yoghurt\nsalt to taste\n",
       "Preparation":"Mix masala ingredients with 50 ml water. Heat oil, add cumin seed and fry until they pop. Stir in ginger and garlic purée and cook for a short time. Stir in the masala and then the onions and coat with masala. Add more water and simmer until onions are tender but do not lose their shape.\n",
       "Preparation Time":"5 mins.",
@@ -1098,7 +1098,7 @@
     {
       "Record No.":"87",
       "Title":"Chana Dall",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"113 g chana dall\n550 ml water\n¼ tsp haldi\n1 thin slice of unpeeled ginger\n½ tsp salt\npinch garam masala\n1½ tbsp oil or ghee\n¼ tsp cumin seeds\n1 clove garlic\n¼ tsp red chilli powder\n",
       "Preparation":"Bring dall to the boil in water. Add ginger and haldi. Cover and simmer for 1½ hours.\nDuring last ½ hour, stir every 5 mins. to stop sticking. Add salt and garam masala and stir.\nHeat oil and put in cumin seeds, then garlic until brown, then chilli.\nStir and pour all in dall and mix.\n",
       "Preparation Time":"5 mins.",
@@ -1111,7 +1111,7 @@
     {
       "Record No.":"88",
       "Title":"Onion Bhaji (Pyaz Bhaji)",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"1  tbsp gram flour\n1 tbsp white flour\n½ tsp haldi\n½ tsp ground cumin\n1 tsp garam masala\n1 pinch cayenne pepper\n1 egg\n1 large onion, halved and sliced\n1 tbsp chopped fresh coriander leaf (cilantro)\nsalt to taste\n",
       "Preparation":"Put the flours into a large bowl and blend in the spices. Make a well in the centre and add the egg; stir to form a gluey mix. Add the onion and cilantro and stir to coat.\nDeep fry in hot oil until golden brown.\n",
       "Preparation Time":"15 mins.",
@@ -1189,7 +1189,7 @@
     {
       "Record No.":"94",
       "Title":"Moo Thod Katiem Prik (Pork with Hot Sauces)",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"375 g Pork tenderloin\n½ tsp Salt\n¼ tsp Black pepper\n1 tbsp Butter\n1½ tbsp oil\n1½ tsp Crushed garlic\n1 tsp Minced, fresh ginger\n1 Red chilli, finely chopped\n1 Lemon grass root, finely minced\n\nFor the sauces:\n1. Fresh red chillies, fresh ginger, spring onions and salt. Grind all to a smooth paste.\n2. Tomato, finely chopped, garlic, salt, sugar, chilli, nam pla. Mix together.\n3. Fresh red chillies, onion, minced, nam pla, lime juice, crushed, roasted peanuts.",
       "Preparation":"Rub the whole pork tenderloin with salt and pepper, heat the butter and oil together and sauté the pork until evenly coloured. Remove the pork.\nAdd the garlic, ginger, chilli and lemon grass and fry briefly. Return the pork and roll in the seasonings until thickly coated. Continue to cook for about 8 minutes until tender.\nRemove from the pan and allow the pork to cool. Cut into wafer thin slices and arrange on a serving dish, over-lapping in a rosette fashion. Serve with the sauces in small dishes at the centre of the platter.",
       "Preparation Time":"45 mins.",
@@ -1384,7 +1384,7 @@
     {
       "Record No.":"109",
       "Title":"Baked, Stuffed Aubergines",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"2 Large aubergines\n5 tbsp Olive oil\n2 Onions, finely sliced\n2 tsp Cumin seeds\n1 tsp Ground cinnamon\n4 cloves Garlic, finely chopped\n300 g Cherry tomatoes, halved\n1 tbsp Tomato purée\n100 g Mozzarella, diced\nFinely chopped parsley to garnish",
       "Preparation":"Pre-heat the oven to gas 6 (200°C). Halve the aubergines lengthways, score the flesh and scoop it out, leaving a 1 cm edge.\nHeat the olive oil in a large non-stick frying pan and sauté the onions and aubergine flesh for 5 - 6 minutes. Add the cumin seeds, cinnamon, garlic, cherry tomatoes and tomato purée and stir-fry for a couple of minutes. Season well.\nSpoon the mix into the aubergine shells. Scatter the mozzarella over and place in an oven-proof dish. Carefully pour around 250 ml hot water. Cover the dish with foil and bake for 40 - 45 minutes until tender. Sprinkle with parsley and serve.",
       "Preparation Time":"20 mins.",
@@ -1462,7 +1462,7 @@
     {
       "Record No.":"115",
       "Title":"Porcini and Spinach Risotto",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"25 g Dried porcini\n50 g Butter\n1 Onion, small, finely chopped\n1 clove Garlic, crushed\n200 g Chestnut mushrooms, sliced\n150 g risotto rice\n1 glass White wine\n750 ml vegetable stock, kept simmering\n100 g Spinach, chopped\nParmesan",
       "Preparation":"Soak the porcini in a cup of boiling water for 10 minutes. Strain the liquid through a sieve to remove any grit and keep the liquor for the risotto. Roughly chop the porcini.\nHeat the butter in a wide shallow pan and cook the onion and garlic until softened. Add the chestnut mushrooms and cook for 5 minutes then add the porcini and rice and stir until coated.\nTip in the wine and bubble until it's all absorbed. Gradually add the porcini liquor and then the stock, stirring until the rice is al dente. (All the stock may not be required.) Stir in the spinach until just wilted. Serve sprinkled with parmesan.",
       "Preparation Time":"20 mins.",
@@ -1553,7 +1553,7 @@
     {
       "Record No.":"122",
       "Title":"Blue Cheese Dressing",
-      "Category":"Dressings",
+      "Category":"Dressings & Dips",
       "Ingredients":"190 ml Sour cream\n330 ml Mayonnaise\n115 g Blue cheese, crumbled\n½ tsp dry mustard\n1 tsp Worcester sauce\n2 cloves garlic, crushed\n½ tsp salt\n½ tsp black pepper",
       "Preparation":"Place all ingredients in a large bowl and whisk together. Cover, place in refrigerator for 24 hours before serving.",
       "Preparation Time":"5 mins.",
@@ -1579,7 +1579,7 @@
     {
       "Record No.":"124",
       "Title":"Red Pepper Hummus with Smoked Paprika",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"2 cloves Garlic\n425 g can of Chick peas\n160 g Sweet red peppers (from a jar is best or fresh grilled)\n1 tsp Honey\nTabasco to taste\n½ tsp Smoked paprika (to taste)\nBlack pepper",
       "Preparation":"Whizz the garlic, chick peas, red pepper and honey in a food processor until a smooth purée. Add the tabasco and black pepper to taste. Grind some black pepper over the hummus to serve.",
       "Preparation Time":"10 mins.",
@@ -1631,7 +1631,7 @@
     {
       "Record No.":"128",
       "Title":"Imam Bayildi",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"2 large Aubergines\nOlive oil\n2 large Onions, finely chopped\n230 g Tomatoes, chopped\n3 large cloves Garlic\n1 tsp Cinnamon\n1 tsp caster sugar\n1 tbsp Parsley, chopped\n1 tbsp Pine kernels, chopped\nSalt\nBlack pepper",
       "Preparation":"Place the whole aubergines in a large pan of boiling water, cover and cook for 10 minutes. Drain the pan and plunge the aubergines into cold water; leave for 5 minutes. Cut them in half lengthwise and scoop out most of the flesh leaving a 1.5 cm shell. Arrange the shells in a roasting tin and sprinkle with salt and black pepper. Pour 4 teaspoons of olive oil into each shell, place in a pre-heated oven at 180°C for 30 minutes.\n\nWhile the aubergines are cooking, gently fry the onions and garlic for 5 minutes, then add the tomatoes, cinnamon, sugar and parsley; season to taste with salt and pepper. Continue to simmer this mixture for about 20 minutes, until reduced by about 50%. Chop the aubergine flesh and add to the mixture with the chopped pine kernels. Cook for a further 10 minutes.\n\nRemove the aubergine shells from the oven, stuff them with the mixture and serve hot or cold.",
       "Preparation Time":"30 mins.",
@@ -1696,7 +1696,7 @@
     {
       "Record No.":"133",
       "Title":"Celeriac tartare with smoked trout",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"1 small celeriac\n2 x 125g packs smoked trout, flaked\n100g bag rocket\nextra-virgin olive oil, to drizzle\n\nFor the tartare dressing:\n\n6 tbsp mayonnaise\n1 small handful capers, rinsed and chopped\n2 tbsp lemon juice\n2 tbsp cornichons, finely chopped\n1 small handful parsley leaves, finely chopped\n\n",
       "Preparation":"Combine all the ingredients for the tartare dressing with some salt and set aside.\n\nPeel the celeriac and, either finely slice it, then cut into matchsticks, or simply grate it coarsely. Mix the celeriac into the dressing until combined. Place piles of smoked trout, celeriac and rocket onto serving plates and drizzle everything with olive oil.\n",
       "Preparation Time":"20 minutes",
@@ -1709,7 +1709,7 @@
     {
       "Record No.":"134",
       "Title":"Scallops with lemongrass and chilli",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"    70 ml dark soy sauce\n    1½ tbsp lemon juice\n    ½ tsp chilli oil\n    1 tsp lemongrass, finely diced, white part only\n    1 garlic clove, crushed\n    1 tbsp brown sugar\n    2 kaffir lime leaves, stems removed, finely sliced\n    2 tbsp vegetable oil\n    18 scallops, roe removed\n    1 long red chilli, seeded and julienned\n    coriander, to garnish\n",
       "Preparation":"1. In a mixing bowl, combine the soy sauce, lemon juice, chilli oil, lemongrass, garlic, sugar and half the lime leaves. Whisk well to dissolve the sugar, then set the dressing aside.\n\n2. Heat a flat chargrill pan or frying pan to very high. Add the vegetable oil. Add the scallops to the pan and allow to cook for 30 seconds before turning. Take care not to cook the scallops all the way through, as they will continue to cook once taken off the heat. The scallops should be slightly caramelized around the edges.\n\n3. Remove the seared scallops to a serving platter, or to individual clean scallop shells, if you have some. Spoon the dressing over, garnish with the remaining lime leaves, chilli and coriander and serve. ",
       "Preparation Time":"15 minutes",
@@ -1800,7 +1800,7 @@
     {
       "Record No.":"142",
       "Title":"Garlic Parmesan Roasted Potatoes",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"1 large sweet potato\n1 large yellow potato\n1 medium red onion\n2 tablespoons olive oil\n2 tablespoons unsalted butter\n5 cloves garlic, minced\n1 teaspoon dried thyme\n1/2 teaspoon dried oregano\n1/2 teaspoon dried basil\n1/3 cup freshly grated Parmesan\nSalt and freshly ground black pepper, to taste\n2 tablespoons chopped parsley leaves",
       "Preparation":"1. Preheat your oven to 425°F (210°C). Rinse and cut potatoes in 1/4-inch slices. Proceed same way with onion. Line up potatoes and onion alternately in a greased baking pan.\n\n2. In a bowl, combine melted butter, olive oil, herbs, salt, pepper, parmesan and minced garlic. Brush the mixture generously over the potato and onion rows. Transfer to the oven and bake for 1 hour, until fork tender and a bit crispy on the edges. Serve hot, with a sprinkle of fresh parsley and additional parmesan on top.",
       "Preparation Time":"15 minutes",
@@ -1878,7 +1878,7 @@
     {
       "Record No.":"148",
       "Title":"Asparagus wrapped in pastry with balsamic dipping sauce",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"Short crust pastry with cheese \nFlour for work surface\n150g grated Parmesan\n16 asparagus spears \n1 tbsp  salt \n180ml balsamic vinegar\n1 tbsp. sugar  \n1 bay leaf\n¼ tsp dried thyme\n ",
       "Preparation":"Preheat oven to gas mark 6 (200°C). Line two baking sheets with parchment paper and set aside.\n\nMeanwhile, roll out on a lightly floured surface and cut cheesy pastry to create 16 rectangles of  60 x 150  mm. Sprinkle each strip with 1/2 tablespoon Parmesan, turn over and center an asparagus spear atop the strip. Wrap strips to enclose asparagus; dampen edges of pastry with water and seal to close. Place pastry-wrapped asparagus seam side down on prepared baking pans, spacing appetizers about 2 inches apart.\n\nLightly brush tops of pastry-wrapped asparagus with water and sprinkle each with a pinch of salt. Bake until golden brown, 15 to 18 minutes.\n\nMeanwhile, in a small pan over medium-high heat, bring vinegar, sugar, bay leaf, and thyme to a gentle boil and cook until liquid is reduced to 1/2 cup, 12 to 15 minutes. Strain, reserving sauce and discarding herbs. \n\nServe asparagus warm with balsamic dipping sauce.",
       "Preparation Time":"25 minutes",
@@ -1891,7 +1891,7 @@
     {
       "Record No.":"149",
       "Title":"Asparagus and bacon tart",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"1 sheet puff pastry\n2 eggs, divided\n1 tbsp whipping cream\nflour, for sprinkling\n4 slices bacon, chopped into lardons\n24 asparagus spears, washed and trimmed\n150g ricotta\n150g parmesan, grated\n300g freshly grated gruyère, emmental or fontina cheese\n2 tbsp Chopped chives\nFreshly ground black pepper\nSalt\nExtra-virgin olive oil, for drizzling\n",
       "Preparation":"Preheat oven to gas mark 6 (200°C). Line a baking sheet  with baking paper. Mix together 1 egg and whipping cream to make egg wash. Set aside.\n\nRoll out pastry on lightly floured surface to make a slightly larger rectangle. Using a sharp paring knife, gently score a 20mm border, carefully cutting halfway through pastry. Using a fork, gently prick center area all over. This will prevent the middle from rising out of control. Brush border lightly with egg wash and bake 10 minutes. Transfer to cooling rack and let cool slightly. Reserve egg wash.\n\nMeanwhile, heat a large pan over medium heat. Add bacon and cook until crispy. Remove bacon and drain, and reserve about 2 tablespoons of the bacon fat. Add the asparagus to pan and cook until crisp-tender, about 3 minutes. (The asparagus will cook more in the oven).\n\nIn a medium mixing bowl, combine ricotta, parmesan, gruyère, chives, remaining egg, remaining egg wash, and black pepper. Spread cheese mixture evenly across center of puff pastry, leaving 20mm border. Evenly arrange asparagus across center of pastry. Lightly drizzle asparagus with olive oil and bake until pastry is golden brown and asparagus is fork tender, 25 minutes.\n\nSprinkle with coarsely ground salt and serve immediately.",
       "Preparation Time":"15 minutes",
@@ -1904,7 +1904,7 @@
     {
       "Record No.":"150",
       "Title":"Asparagus and chive tart",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"1 sheet frozen puff pastry, thawed in refrigerator overnight\nPlain flour, for rolling out pastry\n1 egg, beaten with 1 tbsp.  whipping cream\n300g freshly grated Parmesan\n300g freshly grated gruyère, emmental or fontina\n2 tbsp. freshly chopped chives\n2 large eggs\n1 tbsp. whipping cream\n½ tsp. Freshly ground black pepper\nExtra-virgin olive oil, for drizzling\n24 asparagus spears, washed and trimmed\nSalt",
       "Preparation":"Preheat oven to gas mark 6 (200°C) and line a baking sheet with baking paper. Roll out pastry on lightly floured surface to make a 250 x 400mm rectangle. Using a sharp paring knife, gently score a 20mm border, carefully cutting halfway through pastry. Using a fork, gently prick center area all over, every 25mm, then brush border lightly with egg wash and bake 10 minutes. Transfer to cooling rack and let cool slightly.\n\nMeanwhile, in a medium mixing bowl combine Parmesan, fontina, chives, eggs, whipping cream and pepper. Spread cheese mixture evenly across center of puff pastry, leaving a 20mm border. Evenly arrange asparagus across center of pastry, alternating direction and avoiding the border.\n\nLightly drizzle asparagus with olive oil and bake until pastry is golden brown and asparagus is fork tender, 25 minutes.\n\nSprinkle with coarsly ground salt and serve immediately.",
       "Preparation Time":"15 minutes",
@@ -2008,7 +2008,7 @@
     {
       "Record No.":"158",
       "Title":"Chicken liver parfait",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"200g chicken livers, trimmed and cut into 2cm pieces\n60g butter cut into 15g pieces\n1 shallot, finely chopped\n2 sage leaves, shredded\n½tsp pink peppercorns, crushed\n1 pinch ground allspice\n50ml sherry\n2tbsp double cream\n½tsp lemon juice\n½tsp caster sugar\n\nClarified butter\n75g butter\n1tsp pink peppercorns, crushed",
       "Preparation":"1. Pat the chicken livers dry and season. Put 15g butter in a frying pan over a medium heat then sear the livers for 3 minutes on one side and 1 minute on the other. Toss occasionally for another 3 minutes until cooked through.Set aside on a plate.\n2. Put 15g butter into a pan over a medium heat. Add the shallot and sage, season and fry gently for 5 minutes, until starting to caramelise. Add the peppercorns and allspice and sauté for 1 minute. Pour in the sherry and simmer until reduced by half, then stir in the cream, lemon juice and sugar. Return the liver and any juices to the pan, stirring everything togetyher, then remove from the heat and set aside to cool for 15 minutes.\n3. whizz in a blender with 30g butter until smooth. Add more salt, pepper, lemon juice and sugar to taste. Pass through a fine sieve, spoon into ramekins and smooth the tops.\n4. For the clarified butter , warm the butter gently in a pan. Once melted, the milk solids should sink to the bottom. Skim off any scum. Pour a spoonful of the clear butter over each of the parfaits, sprinkle with crushed peppercorns, then top each with another spoonfiul of butter. Cool to room temperature and then chill. Store in the fridge for up to 3 days.",
       "Preparation Time":"10 minutes",
@@ -2060,7 +2060,7 @@
     {
       "Record No.":"163",
       "Title":"Pea and parmesan soufflé",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"1tbsp extra virgin olive oil\n1 small leek, trimmed and thinly sliced\nsalt and pepper\n180g peas\n310ml milk\n50g butter + extra for brushing\n50g plain flour\n140g parmesan, grated + extra to serve\n4 eggs, separated",
       "Preparation":"1. Preheat the oven to 180°C (gas 4). Heat the oil in a medium pan over medium heat. Add the leek, season and cook, stirring, for 5 minutes, or until softened. Add the peas and milk, bring to a simmer and cook for 2 minutes. Remove from the heat and, using a hand-held blender, beat until smooth, then set aside.\n2. Melt the butter in a medium pan over a medium heat. Add the flouir and cook, stirring, for 1-2 minutes. Reduce the heat and gradually add the pea mixture, whisking to combine. Cook, stirring occasionally, for 10 minutes or until extremely thick. Transfer to a large bowl and set aside.\n3. Brush 4 x 250ml ramekins with the extra melted butter and sprinkle with 20g of parmesan. Add the egg yolks and the remaining parmesan to the pea mixture and mix well. Place the egg whites in a large bowl and using a hand mixer, whisk until soft peaks form.In three batches, carefully fold the egg whites into the pea mixture.\n4. Divide the soufflé mixture between the ramekins. Run your finger around the inner edge of each ramekin ½cm deep. Place the ramekinns on a baking tray and bake for 25 minutes, or until puffed and golden. Sprinkle with the extra parmesan and serve immediately.",
       "Preparation Time":"40 minutes",
@@ -2099,7 +2099,7 @@
     {
       "Record No.":"166",
       "Title":"Jalapeno cornbread with charred spring onion and soured cream",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"150g coarse cornmeal\n280ml buttermilk\n1½tsp clear honey\n50g plain flour\n3 spring onions, finely sliced\n200g tin of sweet corn, drained and rinsed\n1-2 jalapeno chillies, finely chopped\n100g extra mature cheddar cheese, grated\n½ heaped tsp salt\n1tsp baking powder\n¼tsp bicarbonate of soda\n2 large eggs, beaten\n80g butter\n\nFor the soured cream:\n6 spring onions, halved\nvegetable oil for rubbing\n300ml soured cream\n1 large handful  of fresh coriander leaves, roughly chopped\nzest of lime + ½ juice",
       "Preparation":"1. Heat a large frying pan over medium heat and toast the cornmeal, tossing accasionally, until fragrant.Transfer half the toasted cornmeal to a mixing bowl, then add the buttermilk and honey. Mix well, then leave to soak for 2-3 hours.\n2. Heat the oven to 220°C (gas 7). Add the remaining cornmeal, the flour, spring onions, sweetcorn, jalapenos, grated cheese, salt, baking powder, bicarb and eggs to the soaked cornmeal and mix well.\n3. Melt the butter in a heavy oven-proof frying pan and let it foam and start to brown, swirling it to coat the pan. Tip the excess into the cornbread mix and stir in.\n4. Pour the mixture into the buttered frying pan, then transfer to the oven for 10 minutes. Turn the oven down to 180°C (gas 4) and bake for 20 minutes more until the top is golden and set. Cool until just warm.\n5. Meanwhile, make the soured cream. Put the frying pan over a high heat until smoking hot. Rub the spring onions with a little oil, season with salt and pepper, then add to the pan. Cook for 10-15 minutes, turning occasionally, until well charred. Put the soured cream in a bowl, snip in the charred onions, then stir in the coriander, lime zest and juice. Season well. Serce wedges of corbread with the soured cream for spreading or dipping.",
       "Preparation Time":"35 minutes",
@@ -2138,7 +2138,7 @@
     {
       "Record No.":"169",
       "Title":"Black pudding bubble and squeak cakes with poached duck eggs and hollandaise",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"500g floury potatoes (maris piper), chopped\n25g butter\n1 onion, finely chopped\n150g sprout tops, cabbage or spring greens\n150g black pudding\n6tbsp olive oil for shallow frying\n1 splash white wine vinegar\n4 duck eggs\n\nFor the hollandaise sauce:\n150g butter\n2tsp white wine vinegar\n4tsp lemon juice\n2 large egg yolks\n¼tsp caster sugar\n2tbsp chives, finely chopped",
       "Preparation":"1. Cook the potatoes in boiling, salted water until just tender but not falling apart (about 20 minutes). Drain and leave uncovered to go cold. Best to make before and chill for 1-2 days.\n2. Melt the butter in a small pan, add the onion, season lightly then cover and cook over a low heat for 10 minutes or until soft and translucent but not browned. Leave to cool.\n3. Remove and discard any large stalks from the greens and roughly tear the leaves. Drop them into boiling water and cook for 2-3 minutes until tender. Drain, refresh under cold, running water, drain once more then squeeze out the excess liquid. Roll up in a clean tea towel and leave to dry - the potatoes and greens need to be really dry to make the cakes crisp - the coarsely chop.\n4. Cut the potatoes roughly into 2cm chunks. Skin the black pudding and cut into smaller pieces. heat 1tbsp of the olive oil in a large non-stick frying pan and fry the black pudding for 1-2 minutes until just crisp all over. Transfer to a large mixing bowl and leave to cool.\n5. Add the potatoes, cabbage and onion to the black pudding and season generously. Stir to combine, then shape into 4 cakes by firmly pressing a quarter of the mix at a time into a 9cm pastry cutter or cooking ring. This will prevent them falling apart when you cook them. Cover and chill for 1 hour.\n6. Shortly before you are ready to cook the cakes, cook the duck eggs in simmering water with a pinch of salt and the vinegar. Break an egg into a teacup then stir the water to create a whirlpool and slide the egg gently into the centre to poach for 3-4 minutes. Remove with a slotted spoon to a plate. Leave the water simmering.\n7. Return the the frying pan to a medium-high heat. Add the rest of the oil and, when it is hot, add the cakes. Fry on each side until crisp and golden brown.\n8. Meanwhile, make the hollandaise sauce. Melt the butter in a small pan and put the vinegar and lemon juice in another small pan. Whisk the egg yolks, sugar and a pinch of salt in a bowl. Bring the vinegar and lemon juice to the boil and gradually add to the egg yolks while whisking. Bring the butter to the boil, then add it in a slow trickle, still whisking, until the sauce is smooth and thick.\n9. Slide the poached eggs back into the simmering water for 30 seconds to warm up. Scoop them out onto kitchen paper and briefly drain. Lift the cakes onto warmed plates and top each one with a poached egg. Spoon some hollandaise sauce over each egg and scatter with the chives.",
       "Preparation Time":"40 minutes",
@@ -2229,7 +2229,7 @@
     {
       "Record No.":"176",
       "Title":"Poblanos Rajas con Crema",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"6 fresh poblano chillies\n1 tbsp butter\n1 white onion, sliced lengthwise (root to tip), 1/4-inch slices\n½ teaspoon salt\n110ml Mexcian crema (Mexican sour cream) or crème fraîche\n110ml milk\n110ml grated Monterey Jack cheese",
       "Preparation":"Char the whole poblano chilli peppers on all sides. The best way to do this is over an open flame of a gas stove. Just place the raw whole chile peppers directly on the grate covering the flame and let the flame blacken the outside skin of the peppers. When one side has blackened, use tongs to turn the chile over a little so the flame can blacken another side.  They should still be a little firm. . Once the peppers are blackened all over (you can still have a few green spots), place them in a paper bag or a thick plastic bag, close the bag, and let the chillies steam in their own heat for a few minutes.\n\nWhen the chillies are cool to touch, remove them from the bag. Working over a sink (this part is messy) use your fingers or a damp towel to strip off the blackened parts. Try to avoid running the chiles themselves under water, as that may wash away some good flavor. But you may find it easier to rinse your hands with water as you are stripping the blackened bits off.\n\nOnce the blackened outer skin is removed, open up the chiles and cut out and discard the stems, seeds, and inner veins. Cut the chillies into long strips, about an inch wide. Many recipes call for thin strips, about a half inch wide, which you can do if you want.  Set aside.\n\nHeat the butter in a large cast iron skillet on medium heat. Add the onions and cook until translucent, about 3 to 4 minutes.\n\nAdd the poblano chillies to the onions. Sprinkle the chillies with salt. Add the Mexican crema and the milk. Gently stir to coat the chillies. Allow to cook for several minutes, until the chillies are completely cooked through and the sauce is bubbling and a little reduced, then sprinkle in the grated jack cheese. Stir with the hot crema sauce until the cheese has melted and mixed in with the crema sauce.\nServe with warmed corn or flour tortillas.",
       "Preparation Time":"5 minutes",
@@ -2242,7 +2242,7 @@
     {
       "Record No.":"177",
       "Title":"Guacamole-Stuffed Poblano Peppers",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"5 small-to-medium poblano peppers\n50ml chopped fresh cilantro\n3 tablespoons finely chopped red onion\n¼ teaspoon salt\nthinly sliced hearts of romaine lettuce\n\nFor the guacamole:\n\n2 ripe avocados, halved, pitted and chopped\n1 Shallot, chopped\n1 Large tomato, peeled and chopped\n1 Red chilli, finely chopped\nSalt\nPepper\nLemon juice, to taste",
       "Preparation":"Blacken the poblano chillies on all sides, about 10 minutes total. Transfer to a large bowl, cover with a kitchen towel and let stand until cool enough to handle, about 10 minutes. Peel the peppers, leaving the stems attached. \n\nMeanwhile, scoop avocados into a medium bowl and coarsely mash. Add cilantro, onion and salt; stir to combine. \n\nStem and seed 1 pepper; chop. Stir into the avocado mixture. Make a lengthwise slit through one wall of each of the remaining 4 peppers and carefully remove the seeds. Divide romaine among the peppers, then fill each with a generous spoon of guacamole.\n",
       "Preparation Time":"20 minutes",
@@ -2255,7 +2255,7 @@
     {
       "Record No.":"178",
       "Title":"Chilli Relenos",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"4 large poblano peppers \n128g shredded mozzarella cheese \n128g shredded Monterey Jack cheese \n128g shredded Cheddar cheese \n65g  flour for dredging \n1 x 400ml can Mexican-style stewed tomatoes \n1 tbsp vegetable oil \n½ onion, chopped \n1 clove garlic, minced   \n355ml chicken broth \n2 tbsp distilled white vinegar \n1 tsp dried oregano, crushed \n½ tsp ground cumin \n½ tsp black pepper \n½ tsp hot pepper sauce (such as Cholula) \n¼ tsp ground cinnamon  \n85g all-purpose flour \n½ tsp salt \n5 egg whites at room temperature \n1 egg yolk, beaten  \n65g all-purpose flour for dredging   \n240ml oil for frying, or as needed \nsour cream for garnish\n",
       "Preparation":"Blacken the poblanos, 8 to 10 minutes per side. When the peppers are about 80 percent blackened, place them a plastic bag, seal, and allow the peppers to steam as they cool, about 20 minutes. Once cool, remove the skins and discard. Cut a slit lengthwise into the side of each pepper, and remove seeds and veins. To reduce spiciness, rinse out any remaining seeds with water. Pat the peppers dry with paper towels.\nMix together the shredded mozzarella, Monterey Jack, and Cheddar cheese in a bowl until thoroughly blended. Divide the cheese into 4 portions, and squeeze each portion lightly in your hands to make a cone shape. Insert a cone into the slit in each pepper, and pin the openings closed with toothpicks. Dredge each pepper in flour, dust off the excess, and place on a small baking sheet lined with parchment paper or waxed paper. Place the peppers in the freezer for at least 30 minutes.\nTo make sauce, blend the stewed tomatoes in a blender until pureed, and set aside. Heat 1 tablespoon of vegetable oil in a saucepan over medium heat, and cook and stir the onion until translucent, about 5 minutes. Add the garlic, cook and stir for about 30 seconds, and pour in the pureed tomatoes, chicken broth, vinegar, oregano, cumin, black pepper, hot pepper sauce, and cinnamon. Reduce to medium-low, and simmer the sauce until reduced by half and thickened, about 20 minutes, stirring often.\nPreheat an oven to 95°C, and warm a platter in the oven.\nTo make batter and finish the chiles rellenos, mix 85g flour with salt in a bowl. In a separate bowl, beat the egg whites with an electric mixer until the whites form stiff peaks. Lightly mix the egg yolk and flour-salt mixture into the egg whites to make a fluffy batter. Remove peppers from freezer and coat them in flour again; shake off excess flour, and dip each pepper into the egg batter, using a spoon to gently but completely coat each pepper with batter.\nHeat frying oil in a heavy cast iron skillet over medium-high heat until the oil shimmers. Gently lay the coated peppers into the hot oil, and fry on both sides until the batter is golden brown and the cheese filling is hot, about 5 minutes per side. Remove peppers to warmed platter while you finish frying. To serve, ladle a generous spoonful of sauce onto plate, and place pepper on sauce. Serve peppers hot with a dollop of sour cream.",
       "Preparation Time":"45 minutes",
@@ -2372,7 +2372,7 @@
     {
       "Record No.":"187",
       "Title":"Thai Mango and King Prawns",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"1 large ripe mango\n14 raw king prawns, shelled and deveined\nJuice of 1 lime\n1 tablespoon shredded basil\nFor the marinade\n1 lemongrass stalk\n1 fat garlic clove, finely grated\n3 cm piece of ginger, peeled and finely grated\n3 tablespoons sweet chilli sauce\n½ tablespoon of rapeseed oil\n1 tablespoon soy sauce\n1 teaspoon sesame oil\n1 tablespoon fish sauce",
       "Preparation":"With the smaller end of the mango pointing up, slice down with a sharp knife, carefully following the curve of the stone and remove one cheek. Turn the mango around and repeat with the other side.\nScore the mango flesh in a criss-cross pattern, trying not to go through the skin. Flip over and push the skin up with your fingers and turn it inside out, it should resemble a hedgehog. Cut the chunks of mango away from the skin and leave to one side.\nScrape any remaining flesh from the skin and around the stone, chop finely and add to a medium bowl. Discard the skin and stone.\nSlice off the bottom of the lemongrass stalk and peel away the outer, tougher layers. Bash the top end with a rolling pin to release the aromatic oils and add this to the bowl along with the remaining marinade ingredients. Mix well.\nDrop in the mango cubes and prawns and mix to coat. Cover and refrigerate for at least 30 minutes.\nWhen ready to eat, take out the prawnsand place the mango and marinade into a small pan on a high heat. Cook for 1-2 minutes or until the sauce is bubbling. Meanwhile quickly fry the prawns in butter for 30 seconds each side.\nTake off the heat , discard the lemongrass stalk and add the lime juice and shredded basil to the remaining marinade. Mix well and pour into two small bowls. Arrange the prawns around the bowls and garnish with a few small basil leaves.",
       "Preparation Time":"15 minutes",
@@ -2398,7 +2398,7 @@
     {
       "Record No.":"189",
       "Title":"Chole",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"3 x 400g tins of chickpeas, rinsed and drained\n4 tsp sunflower oil, plus 75ml\n15 g coriander seeds\n1 cinnamon stick (7-8cm long)\n4 dried red chillies\n8 cloves\n1 tsp black peppercorns\n6 dried Indian bay leaves\n2 tsp cumin seeds\n1 medium cooking onion, chopped or blended to a smooth paste\n4 cm root ginger, peeled and roughly chopped\n1 x 400g tin of peeled plum tomatoes, finely chopped or blended\n1.75 tsp salt\n1 tsp medium red chilli powder\n1 tsp sugar\n2 handfuls of fresh coriander, finely chopped\n",
       "Preparation":"Place the chickpeas in a large pan with 500ml of warm water and boil for about 5 minutes over a high heat. Remove from the heat and set aside, still in their cooking water.\nHeat 4 teaspoons of oil in a small pan for 30 seconds over a low heat, then stir in the coriander seeds, cinnamon, red chillies, cloves, peppercorns, bay leaves and 1 teaspoon of the cumin seeds. Fry the spices for 5 minutes or so, until dark brown, stirring continuously so that they don't burn, then set this garam masala aside to cool.\nHeat the remaining 75ml of oil in a large pan for a minute over a medium heat, then add the other teaspoon of cumin seeds and fry until they start to brown. This only takes a minute or two, so be careful not to overcook or burn them. Stir the onion paste into the cumin seeds (watch out, as the oil may spit) and fry until dark brown, stirring regularly to avoid sticking or burning - I usually stir, cover the pan, and leave the mixture to cook for a minute before stirring again, repeating this 5 or 6 times until the onion is done.\nCrush the ginger using a pestle and mortar (or a blender), to make a fine pulp. Stir the tomatoes into the onions, followed by the ginger, salt, red chilli powder, turmeric and sugar, then increase the heat to high. Stir in the chickpeas with their cooking water, along with an additional 300ml of warm water, then cover the pan and leave to simmer for 5 minutes, stirring occasionally.\nWhile the chickpeas are cooking, finely grind the cooled roasted spices in a blender or with a pestle and mortar. Add to the chickpea mixture, stir, then remove the pan from the heat.\nSprinkle with the chopped coriander, then cover the pan again and leave to rest for around 10 minutes to allow the flavours to infuse. Reheat over a medium heat until piping hot, then serve.",
       "Preparation Time":"35 minutes",
@@ -2424,7 +2424,7 @@
     {
       "Record No.":"191",
       "Title":"Braised Red Cabbage",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"I large onion, sliced\n25g butter\n2 cloves garlic, crushed\n1 red cabbage, shredded\n2 cooking apples, peeled and roughly chopped\n1 tsp mixed spice\n2 tbsp brown sugar\n25ml red wine vinegar\n500ml chicken stock\n2 tbsp redcurrant jelly\n",
       "Preparation":"Heat the onion in butter in a casserole until soft, around 5 minutes. Add the garlic and cook for another 1 minute. Stir in all remaining ingrtedients up to the jelly and season. Bring to the boil , cover and simmer for 1 hour, stirring occasionally.\nRemove the lid and turn the heat up and simmer for another 20 minutes until the liquid has reduced. Just before serving, stir in the redcurrant jelly and season again if necessary.",
       "Preparation Time":"15 minutes",
@@ -2476,7 +2476,7 @@
     {
       "Record No.":"195",
       "Title":"Chana Masala",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"800g canned chickpeas or 720g jar giant chickpeas\n3 onions, quartered\n3 garlic cloves\n5cm piece of ginger\n2-3 green chillies, roughly chopped\n1½ tbsp ghee\n½ tsp ground coriander\n½ tsp ground cumin\n½ tsp chilli powder (Kashmiri if possible)\n1 tsp turmeric\n1 tsp garam masala\n1 ½ tsp amchoor powder (optional)\n3 medium tomatoes (around 300g), roughly chopped, or 400g can chopped tomatoes\n1 lemon, juiced\n½ small pack coriander leaves, to serve",
       "Preparation":"Drain the chickpeas, add to a large pan with 400ml of water and season. Bring to the boil, then turn off the heat and set aside to allow the chickpea flavour to infuse the water.\nBlitz the onions with the garlic, ginger and green chillies. Melt the ghee in a large saucepan, then add the onion mix with a pinch of salt and cook for 8-10 mins, until softened.\nStir in the spices, and cook for 3 more mins, adding a splash of the chickpea water to stop them sticking to the bottom of the pan. Add the tomatoes and another splash of water and cook for 5 mins, squishing the tomatoes with a spoon as they soften. Tip in the chickpeas, along with their cooking water. Cook for 10 mins. Season well, add the lemon juice, and a splash of water if you like a looser curry. Scatter with the coriander, to serve.",
       "Preparation Time":"15 minutes",
@@ -2723,7 +2723,7 @@
     {
       "Record No.":"214",
       "Title":"Polish Cabbage",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"1 small raw green cabbage\n2 tablespoons margarine\n1 garlic clove, minced\n60ml water\n120ml sour cream\n1 tablespoon vinegar\n1 tablespoon sugar\n1 teaspoon salt\n1 egg, beaten lightly",
       "Preparation":"Shred cabbage medium fine; set aside.\nHeat margarine in skillet; saute garlic.\nAdd cabbage and water.\nCover tightly, bring to a boil.\nReduce heat, simmer 10 minutes.\nCombine sour cream with vinegar, sugar, salt and egg; blend thoroughly.\nPour over cabbage; bring to a quick boil and serve immediately.",
       "Preparation Time":"10 minutes",
@@ -2853,7 +2853,7 @@
     {
       "Record No.":"224",
       "Title":"Tarka Dhal 2",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"Oil and butter\n3 cloves garlic\n25mm piece of ginger\n250g tomatoes\n300g mung dhal\n½tsp turmeric\n1tsp chilli flakes\n12 fresh curry leaves\n1½tsp salt\n1tsp cumin seeds\n½tsp black mustard seeds\n1 green chilli, finely chopped\n1 handful frsh coriander to serve",
       "Preparation":"Heat the oil and butter over a medum heat. Add the garlic and ginger and cook for 3 minutes until gold.]\nAdd the tomatoes and cook for 5-6 minutes then add the dhal, turmeric, chilli flakes, 4 of the curry leaves and 1250ml water.\nBring to the boil and then simmer for 40 minutes until thick, then stir in the salt.\nHeat some oil and when smoking hot, add the cumin seed, mustard seeds, green chilli and the remaining curry leaves.\nWhen they crackle, remove from the heat and add to the dhal.\nServe with coriander sprinkled on top.",
       "Preparation Time":"10 minutes",
@@ -2905,7 +2905,7 @@
     {
       "Record No.":"228",
       "Title":"Potato and Onion Pakora",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"300g potatoes, peeled and thinly sliced\n100g onion thinly sliced \nHandful of fresh coriander or parsley (dried herbs are also fine)\n1tsp salt \n1tsp ground cumin\n1tsp ground coriander \n1 chilli, finely chopped\n75g plain flour or gram flour\nOil for frying \n50ml cold water\n",
       "Preparation":"Heat oil in a deep pan on a medium heat.\nMicrowave the potato slices for 5 minutes.\nWhile the oil is heating make the batter by whisking the flour into the water.  Using roughly 50ml of cold water should make the batter sticky, but not too dry.\nAdd all the ingredients into the batter. Ensure all the ingredients are well coated in the batter. Keep aside.\nCheck the oil is hot enough by dropping a little bit of the batter mix; it should float quickly if it’s at the right temperature.\nSeparate the mixture so you cook it in batches and each piece is separate. Drop the pieces into the oil, once they’re golden brown on all sides remove the pakoras and transfer on to a plate lined with kitchen paper to drain the excess oil.",
       "Preparation Time":"15 minutes",
@@ -2944,7 +2944,7 @@
     {
       "Record No.":"231",
       "Title":"Cheese Souffles",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"15g unsalted butter, plus softened butter for the ramekins\n25g  freshly grated Parmigiano-Reggiano cheese\n1½ tablespoons (12g) all-purpose flour \n125 milk\nPinch of salt \nPinch of cayenne pepper\n30g gorgonzola cheese \n3 eggs, separated\n1 tablespoons snipped chives",
       "Preparation":"Preheat the oven to 190°C. Butter two ramekins and coat each one with 1 tablespoon of the grated Parmigiano.\n  \nIn a medium saucepan, melt the butter. Add the flour and cook over moderate heat for 1 minute, whisking constantly. Add the milk, salt and cayenne and cook, whisking, until very thick and bubbling, about 2 minutes. Scrape the mixture into a large bowl and whisk in the gorgonzola and chives.\n\nIn another bowl, using an electric mixer, beat the egg whites until firm peaks form. Fold the beaten whites into the cheese mixture until no streaks remain. Pour the mixture into the ramekins, filling them three-fourths of the way; set the ramekins on a baking sheet. Bake the soufflés for about 20 minutes, until puffed and golden. Place the soufflés on plates and serve immediately.",
       "Preparation Time":"20 minutes",
@@ -2970,7 +2970,7 @@
     {
       "Record No.":"233",
       "Title":"Tarka Dhal",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"100 g Benal ram (chana dal)\n50 g red lentils (masur dal)\n1/2 tsp. turmeric\n3 fat garlic cloves, grated into a paste\n10 g fresh root ginger, peeled weight, grated into a paste\nSalt, to taste\nA handful of chopped fresh coriander leaves\n3 tbsp. vegetable oil\n1 rounded tbsp butter\n2-4 dried red chillies\n1 rounded tsp cumin seeds\n1 small onion, finely chopped\n2 small tomatoes, chopped\n¾ tsp. garam masala, or to taste",
       "Preparation":"Wash both types of lentils together in several changes of water. Place the lentils and 1 litre of water in a large saucepan. Bring to a boil, skimming off any residue that forms. Add the turmeric, garlic, ginger and a little salt. Simmer, covered, for 40 minutes, giving the pot an occasional stir.\n\nAfter the lentils have been cooking for about 30 minutes, heat the oil and butter for the tarka. Add the whole dried chillies and cumin seeds and, once they have browned, add the onion; sauté until well-browned. Add the tomatoes, garam masala and a little more salt and sauté until the masala releases oil, around 10 minutes. Pour some of the lentils into this pan, swirl and scrape the base to extract all the flavours, then pour everything back into the lentils.\n\nCook for another 10 minutes, mashing some of the lentils on the side of the pan to make a homogenous dhal. Add a little water if the lentils are too thick (remember it will thicken further as it cools). Taste, adjust the seasoning and serve scattered with the chopped coriander.\n",
       "Preparation Time":"15 minutes",
@@ -3022,7 +3022,7 @@
     {
       "Record No.":"237",
       "Title":"Asian Coleslaw",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"For the slaw:\n2 red onions \n½ red cabbage \n½ white cabbage \n2-3 large Carrots \nCoriander chopped to sprinkle in top\n\nFor the sauce:\n4 tablespoons mayo\n2 tablespoons peanut butter\n4 teaspoons rice vinegar\n2 teaspoons fish sauce\n2 tablespoons runny honey\nchopped red chilli to taste\n",
       "Preparation":"Mix up the sauce and bung the slaw in and mix. ",
       "Preparation Time":"20 minutes",
@@ -3321,7 +3321,7 @@
     {
       "Record No.":"260",
       "Title":"Maple and miso roasted root vegetables",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"700- 900g assorted root vegetables cut into 1 inch cubes or  juilenned (examples: sweet potatoes, carrots, beets, golden beets, parsnips, turnips, red onions)\n2 tablespoons organic white miso paste\n3 tablespoons maple syrup\n2 tablespoons extra virgin olive oil\n1 tbsp soya sauce\n1 splash sriracha\nSalt and freshly cracked black pepper to taste\nGarnish with toasted sesame seeds, optional",
       "Preparation":"Pre-heat the oven to 205°C.\nLine a baking sheet (or two if you need) with parchment paper.\nWhisk together the miso paste, maple syrup and olive oil.\nToss the cubed vegetables with the miso/maple/olive oil blend and then sprinkle with a little sea salt and black pepper.\nTransfer them onto the parchment lined baking sheet in a single layer, using two baking sheet if needed.\nPlace them in the oven and let them roast for about 25-35 minutes or longer, until they are done. This will depend on how large or small you diced the vegetables. They should be soft in the center and caramelized on the outside. I always check my veggies at about 25 minutes and then give it another 5-10 minutes as needed.\nTake the vegetables out of the oven and taste for seasoning, giving them a little extra salt if needed. Transfer to a platter and serve warm.\nGarnish with toasted sesame seeds.",
       "Preparation Time":"20 minutes",
@@ -3334,7 +3334,7 @@
     {
       "Record No.":"261",
       "Title":"Potato curls",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"4 large potatoes\nButter , melted\nOlive oil\nThyme\nGarlic\nSalt\nBlack pepper\nGruyere chese",
       "Preparation":"Slice the potatoes with a mandolin and soak slices in water for 30 minutes, then drain.\nCombine the melted butter, olive oil, thyme, garlic, salt and pepper and mix with the potato slices. Soak for 10 minutes.\nCurl the potatoes into tubes and stack vertically into a baking tray or dish.\nBake at 180°C for 1 hour or more until golden brown. Brush with olive oil and sprinkle with gruyere cheese. \nBake for a further 30 minutes.",
       "Preparation Time":"20 minutes",
@@ -3360,7 +3360,7 @@
     {
       "Record No.":"263",
       "Title":"Prawn and avocado bruschetta",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"8 Raw jumbo king prawns, defrosted\nZest and juice of ½ lemon\n½ red chilli, finely chopped\n15g fresh coriander or celery top, chopped\n1 clove garlic, peeled\n270g ciabatta loaf, sliced\n2 tbsp olive oil\n1 avocado, peeled and sliced\n70g wild rocket or lettuce",
       "Preparation":"Put the prawns in a bowl with the lemon zest, half the lemon juice, the chilli and coriander. Leave to marinade for 15 minutes.\n\nMeanwhile, rub the garlic clove over the ciabatta slices. Brush 1 tbsp oil over the slices and then griddle each side until golden and set aside.\n\nHeat the remaining oil in a pan and stir-fry the prawns for 5 minutes, until pink and beginning to turn golden. Put into a bowl with the avocado and drizzle over the remaining lemon juice. Place 2 slices of bruschetta on to each serving plate, then top with the prawns and avocado and serve with the rocket or lettuce leaves.",
       "Preparation Time":"5 minutes",
@@ -3373,7 +3373,7 @@
     {
       "Record No.":"264",
       "Title":"Hasselback Potatoes",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"Two large potatoes\n2 cloves garlic\n25g salted butter\nBlack pepper\n25g parmesan cheese, grated\n2 tbsp Panko breadcrumbs",
       "Preparation":"Microwave the potatoes for 10 minutes on full power.\nSlice the potatoes every 8mm to 80% of the width (place a knife handle alongside the potato and slice down until the blade reaches the handle).\nSoften the butter in the microwave and mix in the mashed garlic and black pepper. Spread the butter mix into each slice.\nPlace on a baking tray and bake at 180°C for 20 minutes.\nBlend 2 tbsp Panko breadcrumbs with the parmesan and sprinkle over the potatoes.\nReturn to the oven for a further 15 minutes.",
       "Preparation Time":"10 minutes",
@@ -3503,7 +3503,7 @@
     {
       "Record No.":"274",
       "Title":"Roasted red onions",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"4 red onions\n4 cloves garlic\nbunch of spinach\n4 tsp feta cheese\n4 tsp breadcrumbs\nbasil\nsalt\nblack pepper",
       "Preparation":"Scoop out the centre of the halved onions with a spoon, then roast the onions at 180°C until just tender. \nChop the onion centres and fry with garlic. Take off the heat, mix with spinach, feta cheese, breadcrumbs and herbs. Fill the onion halves with the stuffing, dot with butter, pour a little wine around them and bake until tender.",
       "Preparation Time":"5 minutes",
@@ -3516,7 +3516,7 @@
     {
       "Record No.":"275",
       "Title":"Asparagus straws",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"6 phyllo pastry sheets\n50 g unsalted butter, melted\n24 asparagus spears (see intro), at least 16cm long, woody ends trimmed\n15 g Parmesan or vegetarian Italian-style hard cheese, finely grated\nPinch cayenne pepper (optional)\n225g Hollandaise sauce",
       "Preparation":"Preheat oven to 200°C (180°C fan) mark 6. Line 2 baking sheets with baking parchment. Place 1 filo sheet on a board (keep remaining filo covered with a damp tea towel). Brush with a little butter, then top with another filo sheet. Cut into quarters, then slice each rectangle in ½ diagonally to make 8 sloping triangles.\nWorking with 1 triangle at a time, with the longest edge closest to you, place an asparagus spear vertically on the left of the long edge. Roll up tightly in the filo. Repeat rolling with 7 more asparagus spears and arrange on a lined baking sheet, seam-down.\nRepeat filo buttering, slicing and rolling to make 24 canapés. Brush with a little more butter and sprinkle the pastry ends with cheese and a pinch of cayenne, if using.\nCook for 15-18min until the pastry is crisp. Cool for 10min.",
       "Preparation Time":"30 minutes",
@@ -3581,7 +3581,7 @@
     {
       "Record No.":"280",
       "Title":"Bacon avocado bombs",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"2 avocados\n35 g cheddar, grated \n8 slices streaky bacon\nSalt\nBlack pepper",
       "Preparation":"Heat grill and line a small baking tray with foil.\nSlice each avocado in half and remove the pits. Peel the skin off of each avocado.\nFill two of the halves with cheese, season then replace the other avocado halves. Wrap each avocado with 4 slices of bacon.\nPlace bacon-wrapped avocados on the prepared baking tray and grill until the bacon is crispy on top, about 5 minutes. Very carefully, flip the avocado using tongs and continue to cook until crispy all over, about 5 minutes per side.\nCut in half crosswise and serve immediately.",
       "Preparation Time":"10 minutes",
@@ -3594,7 +3594,7 @@
     {
       "Record No.":"281",
       "Title":"Avocado with crab",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"350 g crab meat\n95 g Greek yogurt\n½ red onion, crushed\n2 tbsp. Chopped chives\n3 tbsp. lemon juice\n½ tsp. cayenne pepper\nSalt\n50 g grated cheddar\n50g parmesan\n2 avocados, halved and pitted\n4 large prawns",
       "Preparation":"In a medium bowl, stir together lump crab meat, yogurt, red onion, chives, lemon juice, and cayenne and season with salt.\nScoop out avocados to create bowls. Dice scooped out avocado and fold into crab mixture.\nPreheat grill. Fill avocado bowls with crab mixture and top with the cheeses. Briefely fry the 4 prawns in butter until just pink. Grill the avocados until cheese is just melted, about 1 minute. Decorate each avocado with a prawn and some more lengths of chives. Serve immediately.",
       "Preparation Time":"15 minutes",
@@ -3607,7 +3607,7 @@
     {
       "Record No.":"282",
       "Title":"Avocado egg boats",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"2 ripe avocados, halved and pitted\n4 large eggs\nSalt\nFreshly ground black pepper\n3 slices bacon\nFreshly chopped chives, for garnish",
       "Preparation":"Preheat oven to 180°C (160ºC fan). Scoop about 1 tablespoon worth of avocado out of each half; discard or reserve for another use.\nPlace hollowed avocados in a baking dish, then crack eggs into a bowl, one at a time. Using a spoon, transfer one yolk to each avocado half, then spoon in as much egg white as you can fit without spilling over.\nSeason with salt and pepper and bake until whites are just set and yolks are still runny, 10 to 15 minutes. (Cover with foil if avocados are beginning to brown.)\nMeanwhile, in a large pan over medium heat, cook bacon until crisp, 8 minutes, then transfer to a paper towel-lined plate and chop.\nTop avocados with bacon and chives before serving.",
       "Preparation Time":"15 minutes",
@@ -4088,7 +4088,7 @@
     {
       "Record No.":"319",
       "Title":"Stuffed Peppers 1",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"4 Green or red capsicum, sliced in half \n6-8 shallots, sliced and chopped\n8 cherry tomatoes, chopped\n4 rashers of bacon, chopped\n1 tbsp honey\n1 tbsp chipotle sauce\n60g parmesan, grated\nsalt\nblack pepper\nolive oil",
       "Preparation":"Place the capsicum in an oven-proof dish, season and drizzle with olive oil. Roast in the oven at 190°C(180°C fan) for 10 minutes. Meanwhile, fry the bacon for 5 minutes. Blend the shallots, tomatoes, honey and chipotle and season well. Add to the bacon and fry over a medium heat for 10 minutes, stirring frequently.\n\nAfter the capsicum have roasted for 10 minutes, remove from the oven and stuff with the shallot mix then return to the oven for another 20 minutes.\n\nRemove from the oven, sprinkle with the parmesan and then finish in the oven for another 5-10 minutes so that the cheese has melted and is bubbling,",
       "Preparation Time":"30 minutes",
@@ -4192,7 +4192,7 @@
     {
       "Record No.":"327",
       "Title":"Russian mushroom julienne",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"450g white button mushrooms, thinly sliced\n60g thinly sliced onions\n2 cloves garlic, minced\n3 tablespoons butter, divided\n60ml dry white wine\n235g sour cream\nsalt and freshly ground pepper to taste\n115g shredded Mozzarella cheese",
       "Preparation":"Clean and slice mushrooms.\nPreheat oven to 190°C\nIn a large pan melt the 2 tablespoons of butter. Next, add sliced mushrooms, onions, and garlic. Sauté on medium heat until mushrooms give out liquid and have reduced to about half the size. Drain the mushrooms and set aside.\nIn the same skillet, melt the remaining 1 tablespoon butter then add white wine. Simmer on medium heat for 2 minutes. Add the sour cream and mix to blend. Season the sauce with salt and pepper to taste. Stir in the mushrooms.\nPour the sauce with mushrooms into an 8x8-inch baking pan, or divide equally among 4 ramekins. Sprinkle with cheese and bake for 10 minutes or until the cheese is melted. Serve with crusty bread.",
       "Preparation Time":"10 minutes",
@@ -4322,7 +4322,7 @@
     {
       "Record No.":"337",
       "Title":"Sweet potato, feta and red onion frittata",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"300 g sweet potato, peeled and cut into 1cm (½in) cubes\n1 tbsp butter\n1 tbsp olive oil\n2 red onions, very thinly sliced\n1 garlic clove\n1 tsp thyme leaves, plus small sprigs to serve\n1 tbsp balsamic vinegar\n1 tbsp flat-leaf parsley, chopped, plus extra to serve\n6 large eggs, beaten and liberally seasoned\n125 g feta",
       "Preparation":"Bring a large saucepan of salted water to the boil and cook the sweet potato for 8-10 minutes or until tender. Drain well.\nWhile the potato is cooking, heat the butter and olive oil in a large, ovenproof frying pan over a medium heat and add the red onions. Fry the onions for 8 minutes until nicely caramelised and soft.\nAdd the garlic, thyme and balsamic vinegar and fry for a further 2 minutes until the garlic is fragrant and the vinegar has evaporated.\nStir the parsley through the onions, then scatter the sweet potatoes around the pan.\nPour over the beaten egg and swirl it around to fully cover the base of the pan. Break the feta into chunks and scatter over the egg.\nCook over a low heat for 5-6 minutes until the sides and the underside of the frittata are starting to look set.\nTransfer to a hot grill for 3-4 minutes or until the top of the frittata is golden and it is set all the way through. Scatter over some thyme and parsley to serve.",
       "Preparation Time":"5 minutes",
@@ -4478,7 +4478,7 @@
     {
       "Record No.":"349",
       "Title":"Curries, Chana ko dal",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"280g chana dal (split Bengal gram)\n½ tsp ground turmeric\n2-3 whole fresh green chillies, tailed and slit lengthways\n3-4 cloves\n2.5cm piece of cinnamon stick\n2-3 green cardamoms, lightly crushed\n2 tejpaat (Nepali bay leaves)\n1 tsp salt\n1 tbsp fresh coriander leaves, chopped\n\nFor the tempering:\n2 tbsp ghee or vegetable oil\n2-3 dried red chillies, depending on size or to taste\n1 tsp cumin seeds\n2 red onions, finely chopped\n15g fresh ginger, peeled and finely chopped\n1 tomato, chopped\n1 tsp sakahar barha masala (vegetable garam masala, see below)\nFor the Sakahar barha masala:\n\nFor the whole spices:\n1 tbsp dried garlic flakes\n5 dried red chillies, crushed\n2 tsp cumin seeds\n2 tbsp coriander seeds\n1¼ tsp black mustard seeds\n1 tsp fenugreek seeds\n1 tsp timmur peppercorns, or Sichuan peppercorns\n2 tsp black peppercorns\n4 black cardamoms\n5 tejpaat (Nepali bay leaves), crushed\n\nFor the ground spices:\n1 tbsp ground ginger\n1 tsp turmeric\n1 tsp hing (asafoetida)",
       "Preparation":"1. Make the Sakahar barha masala: heat a non-stick frying pan. Add all the whole spices and dry roast over a medium heat until they colour, puff up and start releasing their aroma. Transfer to a plate and leave to cool. Using a spice grinder or coffee grinder, grind the toasted and cooled whole spices in batches until finely powdered. Mix in the ground spices until well blended. Transfer to a screw top jar or other airtight container. For best results, use any leftover spice mix within two weeks.\n\n2. Wash the chana dal under running water and soak them for 30-60 minutes in lukewarm water.\n\n3. In a medium heavy-based saucepan, combine the drained chana dal, turmeric, fresh green chillies, whole spices and salt. Cover with 1.4 litres of water and bring to the boil.\n\n4. Lower the heat and simmer, uncovered, for 45-60 minutes, until the dal is cooked through, and the liquid has reduced. Drain half of the dal and place in a blender with some of the cooking liquid. Process to a purée and pour back into the pan. Stir until well blended. The dal should have the consistency of a thick soup. Keep the dal hot.\n\n5. Make the tempering. Heat the ghee or oil in a non-stick frying pan, add the dried red chillies and cumin seeds.\n\n6. When the seeds start to crackle, add the onions and cook for 12-15 minutes, stirring occasionally, until caramelised. Stir in the ginger and tomato. Cook for two minutes, until the tomato is soft. Add the vegetable garam masala, stir well and leave to simmer for 30 seconds.\n\n7. Pour the whole tempering mixture into the simmering dal, add the chopped coriander and stir until well mixed. Simmer for three to four minutes, to allow the flavours to infuse.\n\n8. Check and adjust the seasoning to taste, adding more salt if needed, and serve hot with rice and puri.",
       "Preparation Time":"45 minutes",
@@ -4543,7 +4543,7 @@
     {
       "Record No.":"354",
       "Title":"Baked eggs in avocado",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"1 avocado\n2 eggs\nsalt, to taste\npepper, to taste\n55g bacon bits\n1 cherry tomato, quartered\n1 sprig fresh basil, chopped\nshredded cheddar cheese\n2 tablespoons fresh chives, chopped",
       "Preparation":"Preheat oven to 200°C.\nSlice the avocado in half and remove the pit.\nFry the bacon bits until crispy.\nPlace the avocado halves on a baking sheet and scoop out some of the flesh to make a bigger hole.\nCrack one egg into each hole and season with salt and pepper.\nTop with bacon bits, and cheese and bake for 15 minutes or until yolk reaches desired consistency.\nSprinkle with fresh chives, as desired.",
       "Preparation Time":"10 minutes",
@@ -4829,7 +4829,7 @@
     {
       "Record No.":"377",
       "Title":"Salmon and asparagus terrine",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"25 ml olive oil, plus extra to grease\n1 red chilli, deseeded and finely chopped\n1 garlic clove, finely chopped\n2½ cm  fresh root ginger, grated\n125 g  fine asparagus spears, ends trimmed\n200 g  smoked salmon, in long thin slices\n2 tbsp. freshly chopped dill, plus extra to garnish\n800 g  skinned, boned salmon fillets, ideally in one or two pieces\n1 lemon",
       "Preparation":"In a small bowl, mix the oil, chilli, garlic, ginger and plenty of seasoning.\n\nBring a pan of water to the boil and cook asparagus for 2-3min. Drain, then run under cold water to cool. Dry with kitchen paper.\n\nPreheat oven to 180°C (160°C fan). Line a 900g (2lb) loaf tin with a double layer of foil, then lightly grease foil. Line inside of tin with most of the smoked salmon (as best you can), reserving some for top. Sprinkle in some of the dill and a little of the oil mixture.\n\nTrim half the quantity of salmon fillet to fit neatly inside base of tin. Neatly lay asparagus over in an even layer. Top with more dill and oil mixture. Cover with remaining trimmed salmon fillet, then last of dill and oil mixture.\n\nCover top of terrine with reserved smoked salmon; wrap whole tin well in a few layers of foil. Put wrapped tin into a roasting tin; fill with boiling water to halfway up sides of loaf tin. Cook in oven for 40min or until a metal skewer held in the centre comes out just warm.\n\nLeave to cool (still wrapped) completely in the water. Transfer wrapped terrine to an empty roasting tin; lay cans on top to weigh it down. Chill overnight.\n\nTo serve, turn terrine out on to a serving plate and carefully peel off foil. Garnish with extra dill and serve with lemon wedges.",
       "Preparation Time":"30 minutes",
@@ -4972,7 +4972,7 @@
     {
       "Record No.":"389",
       "Title":"Potato and onion flower",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"Puff pastry cut into 50mm wide strips\n4 large potatoes, thinly sliced\nvegetable oil\n2 cloves garlic, crushed\nsalt\nblack pepper\nrosemary\noregano\nred onion, thinly sliced\nbalsamic vinegar\nbrie, thinly sliced\nstreaky bacon",
       "Preparation":"Cut the puff pastry into 50 mm strips and place on 80 mm strips of grease-proof paper.\nToss the potato slices in the oil with the garlic and seasoning. Press slices of the potato on the pastry.\nToss the onion slices in the vinegar and arrange the slices over the potato.\nPlace the cheese over the onion, near the base and finish with rashers of bacon over the cheese. \nRoll the prepared strips up until the diameter is about the same as the baking dish and then drop in with the bacon lowest. Remove the backing paper and place in the oven at 180°C ; bake for 45 minutes until the potatoes are browning and crispy.\n",
       "Preparation Time":"30 minutes",
@@ -5154,7 +5154,7 @@
     {
       "Record No.":"403",
       "Title":"Red cabbage with fennel",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"1 small red cabbage finely shredded\n1 large white onion finely sliced\n1 fennel bulb finely shredded\n1 green apple peeled, cored & sliced\n50 g sugar\n50 g butter\n50 ml red wine vinegar\n250 ml red wine\n2 tbs. redcurrant jelly\nJuice & Zest 1 orange\n1 tsp. coriander seeds crushed\nSalt & cracked black pepper to taste",
       "Preparation":"Bring sugar, liquids and seasonings to the simmer.\nAdd cabbage, apple, onion & fennel.\nSimmer covered for 1 hour.\nRemove lid and reduce liquid to syrup & the cabbage is tender & glossy.",
       "Preparation Time":"15 minutes",
@@ -5206,7 +5206,7 @@
     {
       "Record No.":"407",
       "Title":"Spring rolls",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"2 small chicken breasts, sliced into thin strpis\n1 tbsp. vegetable oil\n1 tbsp. light soy sauce \n1 tbsp. oyster sauce, optional\n1 tbsp. Chinese five-spice\n4 Chinese dried mushrooms, soaked in hot water for 20 minutes\n1 clove garlic, peeled and finely chopped\n2 cm piece root ginger, peeled and grated\n75 g bean sprouts\n2 large spring onions, finely sliced\n1 medium carrot, julienned\n12 medium spring roll wrappers\n1 tbsp. cornflour\n750 ml groundnut oil\nTo serve, chives, finely chopped and sweet chilli sauce",
       "Preparation":"Heat the vegetable oil in a wok over high heat and stir fry the chicken for two to three minutes, stirring constantly. Add soy sauce and oyster sauce (if using), then sprinkle with five-spice powder before taking the chicken out of the wok and leaving on one side to cool. \nDrain the mushrooms, remove the hard inners stem and slice thinly. In a large bowl, mix the mushrooms, garlic, ginger, beansprouts, spring onions, and carrot. Add the cooled chicken and stir well to combine everything together. \nLay one spring roll wrapper out onto a flat surface, and spoon two tablespoons of the chicken and vegetable filling in the centre of the layered sheet. \nMix the cornflour with 1tbsp water and use to brush over the wrapper edges - this helps stop the spring rolls from bursting open while frying. Fold each of the opposite corners in, over the filling, and roll the wrapper into a cigar shape. \nMeanwhile, heat groundnut oil over a medium heat to deep fry your spring rolls. Add spring rolls in batches until golden brown, about three to five minutes. Drain onto absorbent paper before garnishing with finely chopped Chinese chives (or spring onions) and serving with sweet chilli sauce.",
       "Preparation Time":"30 minutes",
@@ -5258,7 +5258,7 @@
     {
       "Record No.":"411",
       "Title":"Tarka Dhal 3",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"For the ginger-garlic paste\n1 part fresh ginger, skin scraped off and flesh chopped\n2 parts garlic, peeled and chopped (by volume)\n1 part fresh ginger, skin scraped off and flesh chopped\n2 parts garlic, peeled and chopped (by volume)\n1 part fresh ginger, skin scraped off and flesh chopped\n2 parts garlic, peeled and chopped (by volume)\nFor the tarka dal\n200 g mung lentils\n2 tbsp sunflower oil\n1 tsp cumin seeds\n1 tsp ginger-garlic paste\n2 fresh green chillies, slit in half lengthways and stalks left on\n2 tomatoes diced (seeds and all)\n1 tsp turmeric\n1 tsp garam masala\n1 pinch salt\n1 handful of fresh coriander (cilantro) leaves, chopped",
       "Preparation":"First make the ginger-garlic paste. If you are making a small amount, you can grate both or crush them using a mortar and pestle. You don’t need to discard the green ‘soul’ from the centre of the garlic; it is edible and any bitterness it has will add to the balance of flavours in the overall dish. If making a larger amount, blitz the peeled and chopped ginger and garlic in a blender, along with a little cold water to turn the blades and make a smooth paste.\nWash the lentils in a sieve under running cold water until the water runs clear. Put them into a heavy-based saucepan and then pour double the quantity of boiling water over them (don’t salt the lentils at this stage, as they can take longer to cook if you do).\nBring to the boil, then reduce the heat and simmer until very soft, about 30 minutes, adding more boiling water as they absorb what’s in the pan. Ensure that the lentils are submerged at all times. When the lentils are cooked, they should have completely disintegrated and should resemble oat porridge.\nMeanwhile, warm the sunflower oil in a separate pan on a high heat and add the cumin seeds. As they begin to crackle and change colour, add the ginger-garlic paste and cook for 30 seconds, then add the chillies and cook for a further few seconds.\nTip in the tomatoes and cook for 3–4 minutes until soft.\nStir in the turmeric and garam masala, add a little cold water and bring to a bubble.\nCarefully pour in the cooked lentils, along with all the cooking liquid (no need to drain) and season with salt. The mixture should have a pouring consistency.\nSprinkle the chopped coriander over, and serve hot with plain boiled rice or rotis.",
       "Preparation Time":"15 minutes",
@@ -5323,7 +5323,7 @@
     {
       "Record No.":"416",
       "Title":"Potato dauphinoise",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"500g waxy potatoes (Desiree, King Edward or Maris Piper)\n200 ml double cream\n200 ml whole milk\n2 garlic cloves\nNutmeg\n1 bay leaf\n1 large knob butter\nsprig fresh thyme for garnish\n120g Comte or gruyere cheese\nSalt\nBlack pepper\n",
       "Preparation":"Preheat the oven to 140C fan. Grease a large ovenproof dish (about 25 x 15 cm) with the butter.\nCut the potatoes into thin slices (no need to peel them; they are especially pretty left unpeeled if red-skinned). Ideally, use a mandolin or the slicing attachment on a food processor to speed things up.\nPour the cream and milk into a large saucepan and bring to the boil. Peel one clove of garlic, slice and add to the pan with a good grating of nutmeg and the bay leaf. Season generously, and when the mixture is bubbling add the potatoes. Reduce the heat and cook for six minutes, so the potatoes just begin to cook.\nMeanwhile, slice the remaining garlic clove. Grease a roasting pan liberally with butter and then gently pour or spoon in half the potato and cream mixture and then sprinkle half the cheese over. Repeat with the last layer. \nBake for one hour until the top is deeply golden, allow to stand for 15 minutes and then garnish with the fresh thyme.",
       "Preparation Time":"30 minutes",
@@ -5492,7 +5492,7 @@
     {
       "Record No.":"429",
       "Title":"Samosa",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"200g potato, peeled and finely diced\n50g carrot, peeled and finely diced\n2 tsp sunflower oil, plus 600ml for deep-frying\n40g green beans, trimmed and finely chopped\n40g fresh or frozen peas\n40g frozen sweetcorn\n1 onion, diced\n1 tsp garlic paste (or 2 garlic cloves, crushed)\n2 birds-eye chillies, finely chopped\n1 tsp chilli powder\n1 tsp ground coriander\n1 tsp ground cumin\n½ tsp garam masala\n10g fresh coriander, finely chopped\n2 spring onions, finely chopped\n10g plain flour\nphyllo pastry",
       "Preparation":"Par-boil the potato and carrot for 6 mins; drain and set aside. \nMeanwhile, heat 2 tsp oil in a large frying pan over a medium heat. Add the beans, peas, sweetcorn, onion, garlic, chilli and spices; stir to combine. Cover and cook for 4-6 mins, stirring halfway, until softened. \nAdd the potato and carrot and season to taste. Cook for 3 more mins, stirring frequently, then remove from the heat and set aside to cool completely. Stir through the coriander and spring onion. \nIn a small bowl, mix the flour with 20ml water to make a thin paste; set aside. Cut the spring roll pastry sheets into 6.5cm wide strips. You should get 3 strips from each sheet. \nLay two strips on top of one another. Loosely fold over the bottom of the pastry at a slight diagonal angle (about 2cm one side, 3cm on the other), then fold the pastry back on itself towards the longer edge to make a cone-shaped pocket. Make sure the bottom is closed. \nHold open the pastry pocket and spoon in 1 tbsp of the filling, packing down with your thumb. Fold the whole triangle over so one edge lines up against the edge of the remaining pastry, then keep turning the triangle over to meet the opposite corner, making sure there are no openings. When you get to the bottom of the strip there will be a little spare pastry: lightly brush both layers with the flour mixture then stick them down to seal. Repeat until you’ve used up all the filling. \nHeat 600ml oil in a large, deep saucepan over a medium heat to 175C. If you don’t have a thermometer, test the heat by adding a small piece of leftover pastry – it should bubble and rise to the surface. Fry the samosas in batches for 2 mins, turning halfway, until golden. Use a slotted spoon to transfer to a kitchen paper-lined plate. \n",
       "Preparation Time":"30 minutes",
@@ -5674,7 +5674,7 @@
     {
       "Record No.":"443",
       "Title":"Smoked salmon and avocado terrine",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"sunflower oil, for greasing\n250g pack thinly sliced smoked salmon\n50g pack feta or cream cheese, broken into small pieces\n2 tbsp snipped chives\n2 large ripe avocados, peeled, stoned and finely chopped\n2 tbsp lemon juice\nsweet chilli sauce, for drizzling\nsalad leaves and vinaigrette, to serve",
       "Preparation":"Lightly oil 8 small ramekins. Line with cling film, then the salmon (either 1 large or 2 smaller slices), allowing plenty of overhang.\n\nGently mix together the cheese, chives and avocado with the lemon juice and plenty of seasoning. Spoon into the salmon-lined ramekins, press down, fold over the overlapping salmon, then cling film to seal in the mixture. Can be made the night before, but if making on the day they should be chilled for at least 4 hrs.\n\nOn the day, gently lift the terrines out of the ramekins using the cling film, then remove the film. Place the terrines on plates with some baby salad leaves tossed in a little vinaigrette. Drizzle the terrine and plate with sweet chilli sauce. Serve on their own or with toast.",
       "Preparation Time":"20 minutes",
@@ -5700,7 +5700,7 @@
     {
       "Record No.":"445",
       "Title":"Involtini di manzo",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"8 x 70 g pieces of thinly sliced topside of beef\n50 g pine nuts\n4 cloves of garlic\na few sprigs of fresh thyme\na few sprigs of fresh rosemary\na few sprigs of fresh parsley\n70 g fresh breadcrumbs\n4 tablespoons raisins\nolive oil\n3 shallots\n100 ml white wine\n1 x 400 g tin of chopped tomatoes",
       "Preparation":"Preheat the oven to 160°C.\nLay the beef between 2 sheets of clingfilm and bash with a rolling pin or meat mallet until really thin.\nLightly toast the pine nuts in a dry frying pan. Peel and finely chop the garlic, then pick and finely chop the herb leaves.\nCombine the pine nuts, breadcrumbs, three-quarters of the chopped garlic, raisins, herbs, a pinch of sea salt and black pepper and a lug of oil.\nDivide between the beef, spooning into the centre of one end of each slice. Roll up tightly, sealing in the mixture, then secure with cocktail sticks or kitchen string.\nHeat a heavy-based ovenproof pan (just big enough to fit all of the rolls snugly) over a medium heat and add a drizzle of oil. Brown the beef rolls on all sides.\nPeel and finely slice the shallots, then add to the pan with the remaining garlic and cook for 2 to 3 minutes, stirring a little to keep the shallot from catching.\nAdd the wine to the pan and simmer for a few minutes, until evaporated by half. Add the tinned tomatoes, and season.\nBring the sauce to the boil, then transfer the pan to the oven and let it bubble away gently for 1 hour to 1 hour 30 minutes, or until the beef is tender when you cut into it, and the sauce is thick and rich. Serve with a green salad.",
       "Preparation Time":"30 minutes",
@@ -5713,7 +5713,7 @@
     {
       "Record No.":"446",
       "Title":"Cauliflower dahl",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"1 tbsp vegetable oil\n1 onion, finely sliced\n2 garlic cloves, crushed\n5cm piece fresh root ginger, peeled and grated\n1 tsp each ground coriander, turmeric and garam masala \n1-2 green chillies, to taste, deseeded and finely chopped\n150 g red lentils, rinsed well\n3 tomatoes, chopped\n250 g cauliflower florets\n400 g tin chickpeas, drained and rinsed\n100 g baby leaf spinach\n2 tbsp Coconut yoghurt",
       "Preparation":"Heat oil in a large pan and gently fry the onion for 10min until completely softened. Stir in the garlic, ginger, spices and chilli(es) and cook for 1min until very aromatic.\nAdd lentils, tomatoes and 600ml water and bring to the boil. Turn down heat and simmer for 35min, adding the cauliflower for the final 10min of cooking. The lentils should be fairly mushy.\nStir in the chickpeas and spinach to wilt. Check seasoning (it will take a fair amount of salt) and serve sprinkled with coriander and a dollop of yogurt, if you like.",
       "Preparation Time":"15 minutes",
@@ -5726,7 +5726,7 @@
     {
       "Record No.":"447",
       "Title":"Roasted celeriac and stilton",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"2 heads celeriac, washed\n5 sprigs rosemary\n25 g butter\n2 tbsp plain flour\n375 ml chicken or vegetable stock\n200 g  stilton cheese\nsalt and black pepper, to serve",
       "Preparation":"Preheat the oven to 180°C. Wrap the celeriac and rosemary in foil and place on a baking tray. Bake for 2½ hours or until the celeriac is tender.\nFor the velouté sauce, heat the butter and flour in a saucepan and cook for about 3 minutes, stirring constantly. Add the stock a little at a time, stirring to remove any lumps, add half the stilton cheese and stir until a sauce around the consistency of cream develops. Season to taste, remove from the heat and keep warm.\nRemove the celeriac from the oven and cut off the top. Fluff the insides with two forks, season with salt and pepper, crumble over the remaining stilton cheese and pour over the velouté.",
       "Preparation Time":"10 minutes",
@@ -6012,7 +6012,7 @@
     {
       "Record No.":"471",
       "Title":"Stuffed Turkish aubergines",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"250 grams of minced meat; in Turkey, lamb is used,\n3 medium-sized aubergines,\n1 small onion,\n1 red bell pepper,\n4 cloves of garlic,\n3 tomatoes,\n2 teaspoons of tomato purée,\na bunch of parsley,\nolive oil,\npaprika, pepper, and salt to taste.",
       "Preparation":"Wash the aubergines, plunge into boiling warer for 10 minutes. Remove and place in cold water for 5 minutes. Cut them in half, and scoop out the flesh. Brush the hollowed-out aubergines with olive oil inside and out and add salt and black pepper. Place in a pre-heated oven at 180°C for 30 minutes. Chop the flesh finely with the remaining vegetables into small cubes and mince the garlic.\nSeason the meat to taste, and add the finely chopped parsley.\nMix everything together with the meat.\nStuff the aubergine halves with the prepared stuffing.\nAdd a little water to a baking dish. Place the prepared aubergines in the dish.\nPut the dish in an oven preheated to 180°C and bake for a further 30 minutes.",
       "Preparation Time":"30 minutes",
@@ -6077,7 +6077,7 @@
     {
       "Record No.":"476",
       "Title":"Potato rolls",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"300 grams of mashed potato\n300 grams of wholemeal flour,\n250 grams of plain flour\n1 tablespoon of olive oil\n3 teaspoons (9g) of instant dry yeast\n1.5 teaspoons of salt,\n300 millilitres of lukewarm water",
       "Preparation":"Sift the flours and mix with the potato purée. Add yeast and salt.\nAdd lukewarm water to the mixture and start kneading the dough. Knead it for about 5 minutes; you can use a mixer.\nPlace the dough in a bowl, cover with a cloth, and let it rise for 1 hour.\nAfter this time, divide the dough into 8 parts. Lightly moisten your hands with olive oil, then shape the dough pieces into rolls. Place the rolls on a baking sheet lined with parchment paper.\nCover the rolls and leave them for 40 minutes. Then lightly sprinkle them with olive oil and bake at 190°C for 15-18 minutes.\nCool the ready rolls on a rack.",
       "Preparation Time":"20 minutes",
@@ -6116,7 +6116,7 @@
     {
       "Record No.":"480",
       "Title":"Chicken bao",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"For the bao dough:\n150g flour\n1/2 tsp yeast\n1/2 tsp sugar\n1/2 tbsp. oil\n70 ml water\n\nFor the bao filling:\n3 tbsp oil\n2 small shards cinnamon\n1/2 tsp nigella seeds\n70g onion, thinly sliced\n1/8 tsp fenugreek seeds\n200g boneless skinless chicken thigh, cut into chunks\n1/2 tbsp garlic paste\n1 tsp turmeric\n1 tsp dried red chilli flakes\n1/2 tsp ground coriander\n1/4 tsp salt\n1/4 tsp pepper\n2 tomatoes, diced\n200 ml water\n1 tbsp coriander, finely chopped\n1 green finger chilli, thinly sliced",
       "Preparation":"To make dough: put all ingredients into a stand mixer on low setting until combined. Turn up the speed to medium for 10 minutes until the dough feels smooth. Prove in a covered bowl in a warm place for 2 hours.\nMeanwhile, add oil to a pan on high heat. Add cinnamon, nigella seeds and onions. Fry onions until golden. Add fenugreek seeds, stir and then toss in chicken thighs. Stir fry for five minutes before adding garlic. Stir fry for another 2 minutes. Then add turmeric, chilli flakes, ground coriander, salt, pepper, tomatoes and water. Put lid on the pan and simmer. Cook for 20-25 minutes until chicken is tender (add a splash more water if needed). Then turn heat to high and stir fry for 3-5 minutes until extra liquid in the pan has evaporated. Mash chicken with the back of a spoon to shred it. Add coriander and fresh green chilli. Cool and refrigerate.\nOnce dough has proved, turn onto a floured work surface, and knead by hand for three minutes and roll out thinly into a rough rectangle. Take edge of dough nearest to you and roll it away from yourself to create a long Swiss roll. Cut into 8 equal pieces, place cut sides down on the counter and gently flatten each piece with the palm of your hand. Roll each disc out using a rolling pin. Thin out the edges of each disc with your rolling pin so the centre remains slightly thicker and the discs are 12-13cm in diameter. Repeat with all dough balls and set aside with a scattering of flour in between each one to prevent sticking.\nTo fill the bao, put disc of dough in your left palm (if right handed) and fill the centre with 1½ tbsp of chicken curry. Pinch edge of dough to make a small pleat between your right thumb and forefinger. Then, using your left thumb, push a pleat of dough towards your right thumb and forefinger and pinch it between them again. Repeat this action all the way around the edge of dough to create a series of pleats around the filling. Twist and press the final pleat down to seal well. Place bao on the counter and gently reshape to a circle again. Repeat until all buns are filled. Place on a sheet of greaseproof paper and cover with a damp cloth. Prove for 20 mins.\nTo cook, place bao buns in a hot steamer, while still on the greaseproof. Leave a 2cm gap between each bun and the sides of your steamer as they will swell. Steam in two batches if required. Put the lid on and steam for 15 mins. ",
       "Preparation Time":"20 minutes",
@@ -6129,7 +6129,7 @@
     {
       "Record No.":"481",
       "Title":"Crispy coconut prawns",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"Prawns and seasonings:\n250 gram Large prawns\n¼ tsp Salt\n¼ tsp Black pepper\n¼ tsp Garlic powder\n\nCoating ingredients:\n4 tbsp Plain flour\n8 tbsp Panko breadcrumbs \n6 tbsp Desiccated coconut or shredded coconut\n2 Eggs, whisked\n50 ml Coconut milk\nOil for frying\nDipping sauce:\n2 tbsp Sweet chilli sauce\n2 tbsp Orange marmalade or lemon marmalade\n1 tbsp Lime juice or lemon juice",
       "Preparation":"Prepare prawns and coating:\nSeason the prawns with salt, black pepper and garlic powder. Mix it well and set it aside.\nMix panko breadcrumbs and desiccated coconut in one bowl, whisk the eggs with coconut milk in another bowl and place the plain flour in a separate bowl.\nFirst, dredge each prawn in the plain flour, next, dip it in the egg bowl. Then coat with coconut/panko mixture. Press gently with hands to coat each pieces evenly. Toss the excess crumbs out and place it on the tray/plate.\nDeep fry the prawns:\nPreheat the oil over medium-high heat about 180°C and fry the prawns for 2-3 minutes until crispy and golden.\nOnce it's crispy, remove from oil and place it over the cooling rack or paper towel.\nAir fry or Baking Option:\nYou can also air fry or bake coconut prawns. Place the coated prawns on the baking tray or sheet, spray cooking oil over the prawns, and bake/air-fry it in the pre-heated oven/air-fryer 200°C for 10-12 minutes or until crispy golden brown. Flip halfway through.\nCoconut prawns sauce:\nTo make the dipping sauce, combine sweet chilli sauce, orange marmalade, and fresh squeeze lime juice in a small bowl.",
       "Preparation Time":"15 minutes",
@@ -6233,7 +6233,7 @@
     {
       "Record No.":"490",
       "Title":"Prawn cocktail",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"1 clove of garlic\n2 rashers of smoked bacon\nolive oil\n35g breadcrumbs\n1 tablespoons free-range mayonnaise\n1 tablespoons natural yoghurt\n1 tablespoons tomato ketchup\n1 lemon\nWorcestershire sauce\nTabasco sauce\n1 little gem lettuces\n½ cucumber\n70g ripe cherry tomatoes\n1 punnet of cress\n½ ripe avocado\n35g cooked brown shrimp, from sustainable sources\n70g cooked peeled prawns, from sustainable sources\ncayenne pepper",
       "Preparation":"Peel the garlic and finely chop with the bacon  pancetta, then place in a non-stick frying pan on a medium heat with 1 teaspoon of olive oil. Add the breadcrumbs and fry until crunchy and golden, tossing regularly. Leave to cool.\nFor the sauce, whisk up the mayo, yoghurt, ketchup, half the lemon juice and a dash each of Worcestershire and Tabasco sauce, then season to perfection, tasting and tweaking.\nFinely shred the lettuces. Halve the cucumber lengthways and scrape out the seeds with a teaspoon, then chop into 1cm dice. Quarter the cherry tomatoes. Snip the cress.\nHalve and destone the avocado, squeeze the flesh into a blender with the remaining lemon juice and blitz until smooth, loosening with a splash of water, if needed, then season to perfection.\nLine up six clean wide-necked jam jars or glasses ready to fill. Divide the lettuce between them, followed by the cucumber and tomatoes, gently pressing down as you build the layers.\nSpoon in the cool, crispy pancetta crumbs, top with the cress, then sprinkle in the shrimp and prawns. Drizzle in the sauce and add a pinch of cayenne to each. Spoon over the blitzed avo, cover and you’re done.\n\n",
       "Preparation Time":"30 minutes",
@@ -6246,7 +6246,7 @@
     {
       "Record No.":"491",
       "Title":"Smoked mackerel on toasted crumpets",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"1 smoked mackerel fillet\n50g crème fraîche\n¼ lemon, juiced\n2 dill sprigs, finely chopped\n2 crumpets\nbutter for spreading\n1-2 radishes, sliced\nchives, chopped\nhorseradish",
       "Preparation":"Remove the skin from the mackerel and flake the flesh into a bowl. Add the crème fraîche, lemon juice and dill and gently mix until well combined. Season to taste.\nToast the crumpets in a toaster. Remove and generously butter them. Spread the mackerel mixture over the crumpets. Garnish with the sliced cucumber, radishes, horseradish and a sprinkle of chives.",
       "Preparation Time":"10 minutes",
@@ -6311,7 +6311,7 @@
     {
       "Record No.":"496",
       "Title":"Balsamic red cabbage",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"½ large red cabbage, sliced 1/4-inch thick\n2 tablespoons butter\n2 tablespoons sugar\n65ml balsamic vinegar\nsalt\nblack pepper",
       "Preparation":"Melt the butter in a large pot over medium heat. Add the thinly sliced red cabbage and toss to coat with the butter. Sauté until slightly wilted, about 5 minutes.\n\nSprinkle sugar over the cabbage and toss to coat evenly. Add the balsamic vinegar to the pot. Bring to a simmer, then reduce the heat to medium low.\n\nCover and simmer until the cabbage is completely tender but not mushy. Stir often, about 30 to 45 minutes total.",
       "Preparation Time":"10 minutes",
@@ -6363,7 +6363,7 @@
     {
       "Record No.":"500",
       "Title":"Liver parfait withsmoked bacon",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"800g of chicken livers\n200g of foie gras\n8 bacon rashers, unsmoked, streaky, finely chopped\n150g of shallots, finely chopped\n8 garlic cloves, chopped\n50ml of port\n50ml of sherry\n50ml of brandy\n1/2 tsp pink salt\n500g of butter, cold and cubed\n2 tbsp of crème fraîche\n100g of smoked bacon, thinly sliced\nsalt\npepper",
       "Preparation":"Preheat the oven to 110°C. In a non-stick frying pan, sear the foie gras for 2 minutes until coloured and repeat for the chicken livers. Reserve to one side. In the same pan, sweat the bacon, shallots and garlic for 5 minutes until soft. \nLeaving the shallots, bacon and garlic in the pan, deglaze with half the port, half the sherry and half the brandy, lifting the meat juices and flavours from the bottom of the pan.\nTransfer the contents of the pan along with the reserved foie gras and chicken livers to a blender. Place the other half of the liquids into the pan and reduce by half. Add the reduced liquid to the blender and turn it on. Add the cubed butter, a few cubes at a time, as the mixture is blending. Blend for 3-5 minutes until the butter is fully incorporated (the mixture should become smooth and glossy). Pass the mixture through a fine sieve. Fold in the crème fraîche and pour into a terrine mould lined with a double layer of clingfilm.\nPlace the terrine mould in a roasting tin and fill with water until it reaches halfway up the sides of the mould. Bake in the oven for 1 hour. Allow the terrine to cool to room temperature then place into the fridge to chill for 1 hour. Fry the bacon until crisp, then chop coarsely. Once the parfait is cool, scoop into a piping bag and pipe into glasses. Sprinkle the crumbled bacon over the parfait and serve.",
       "Preparation Time":"1 hour",
@@ -6389,7 +6389,7 @@
     {
       "Record No.":"502",
       "Title":"Bramborak",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"500g of raw potatoes,\n1 egg\n50 grams of potato flour,\n20g wheat flour\n58ml of milk,\n½ tablespoon of dried marjoram,\n4 cloves of garlic,\nsalt and pepper to taste,\noil for frying.",
       "Preparation":"Peel, wash, and grate the potatoes on a medium grater.\nSqueeze out the excess water, then add finely chopped garlic.\nAlso, add the flour, milk, eggs, and spices. Mix everything thoroughly and spoon onto a pan with hot oil.\nFry until golden brown, first on one side, then on the other.",
       "Preparation Time":"20 minutes",
@@ -6558,7 +6558,7 @@
     {
       "Record No.":"515",
       "Title":"Falafels",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"200g dried chickpeas,\n2 cloves of garlic,\n1 small onion, chopped,\n2 tablespoons chopped fresh coriander, parsley, or mint,\n1 tablespoon ground cumin,\n1 teaspoon ground coriander,\n1 teaspoon dried mint (can be mint tea),\n½ teaspoon salt,\n½ teaspoon pepper,\n½ teaspoon bicarbonate of soda,\n2 tablespoons chickpea flour or wheat flour,\noil for deep frying.",
       "Preparation":"Soak the chickpeas: Avoid using canned chickpeas - they are too soft and the falafels may fall apart. Cover the dried chickpeas with cold water and let them sit for at least 12 hours, preferably overnight. Then drain them thoroughly and dry on a paper towel.\nPrepare the mixture: Combine the soaked chickpeas, garlic, onion, chopped herbs, and spices in a food processor. Add bicarbonate of soda and flour. Blend on high speed for 2-4 minutes until the mixture becomes uniform and slightly sticky. If it is too dry, you can add a bit of water.\nChill the mixture: Cover the bowl with cling film and place it in the refrigerator for at least an hour. This allows the mixture to set, making the falafels easier to form and better at holding their shape during frying.\nShape the falafels: If you have a special falafel mould, use it to shape the perfect patties. If not, wet your hands with water and form balls about the size of a walnut. This prevents the mixture from sticking to your hands.\nFrying: Pour a generous amount of oil into a pot or deep pan - the layer should be about 2.5-5cm deep. Heat the oil to about 180°C (you can check by dropping a small piece of the mixture in - if it starts frying immediately, the oil is ready). Fry the falafels in batches for 2-3 minutes on each side until they become golden and crispy. Do not add too many at once, as they will lower the oil temperature and fry unevenly.",
       "Preparation Time":"30 minutes + overnight soak + 1 hour chill",
@@ -6753,7 +6753,7 @@
     {
       "Record No.":"530",
       "Title":"Baba ganoush",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"2 medium aubergines\n4 tbsp extra virgin olive oil\n1 garlic clove, crushed or finely grated\n1 tsp cumin seeds, toasted\n2 tbsp tahini\n1 large lemon, juiced\nhandful of parsley leaves, roughly chopped, to serve (optional)\nflatbreads or pittas and vegetable crudités, to serve",
       "Preparation":"Heat the oven to 220°C fan. Cut the aubergines in half lengthways and score a diamond pattern into the flesh using a small, sharp knife, then brush over some of the oil and season with salt.Pierce the skin in a few places with a sharp knife before grilling. Roast the aubergines, cut-side down, on a baking tray for 20-25 mins until charred and collapsed. Leave to cool.\n\nScoop out the cooled aubergine flesh into the bowl of a food processor, then add the garlic, cumin seeds, tahini and lemon juice. Season well, then blitz to combine. With the motor running, drizzle in all but 1 tsp of the remaining oil until thick and smooth. Season to taste. Spoon into a dish, drizzle with the reserved oil, scatter with the parsley, if using, and serve with flatbreads, pittas or vegetable crudités for dunking.",
       "Preparation Time":"15 minutes",
@@ -6844,7 +6844,7 @@
     {
       "Record No.":"537",
       "Title":"Coquilles St Jacques",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"24 roe-free scallops\n\nFOR THE SAUCE:\n25 g butter, softened\n25 g plain flour\n75 ml white wine\n125 ml fish stock\n100 ml double cream\n2 medium egg yolks\n\nFOR THE CRUMB:\n25 g fresh white breadcrumbs\n25 g butter, melted\n3 thyme sprigs, leaves picked\nFinely grated zest ½ lemon\n\nTO SERVE:\n8 large, curved scallop shells",
       "Preparation":"Prepare the scallops: peel off and discard the tough white muscle from each scallop (if present). Pat scallops dry with kitchen paper. Set aside.\nFor the sauce, melt the butter in a medium pan. Add flour and cook, stirring, for 30sec. Take off heat and gradually stir in the wine, followed by the stock, to make a smooth sauce. Return to heat and cook, stirring, until thickened (it will need to bubble). Take off heat, stir in the cream and yolks and check the seasoning. Set aside.\nIn a small bowl, mix the crumb ingredients with some seasoning.\nPreheat oven to 200°C (180°C fan) mark 6. Arrange 3 scallops in each shell, then sit the shells on a large baking tray. Spoon over the sauce and top with the crumb mixture.\nCook in the oven for 15-17min, or until golden and bubbling. Serve immediately with buttery mashed potatoes, if you like.",
       "Preparation Time":"30 minutes",
@@ -6896,7 +6896,7 @@
     {
       "Record No.":"541",
       "Title":"Toast skagen",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"225g shrimp, peeled, cooked and chopped\n115g mayonnaise\n125g soured cream\n2 tbsp chopped fresh dill, plus sprigs to garnish (optional)\n2 tbsp finely chopped red onion\n1 tbsp freshly squeezed lemon juice\n1 tbsp horseradish\n4 slices rye bread\n1 tbsp unsalted butter\nsalt and freshly ground black pepper",
       "Preparation":"Mix the shrimp, mayonnaise, soured cream, dill, onion and lemon juice together in a bowl and season with salt and pepper.\nToast the rye bread slices until crispy. Spread a layer of butter on each slice of rye bread.\nSpoon a generous amount of the shrimp mixture onto each slice of bread. Garnish each serving with a dill sprig, if desired. Serve immediately.",
       "Preparation Time":"30 minutes",
@@ -6909,7 +6909,7 @@
     {
       "Record No.":"542",
       "Title":"Red cabbage, German style",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"1 head red cabbage  (shredded)\n1 apple  (grated, you can leave the skin, just remove the seeds)\n1 onion\n120 ml apple cider vinegar\n120 ml water\n80g sugar\n½ teaspoon black pepper\npinch ground cloves\nsalt\n1 tbsp fresh lemon juice\n4 tablespoons butter",
       "Preparation":"Cook the onion and apple in butter in a saucepan for 5 minutes. Add shredded red cabbage, vinegar, water, sugar, pepper, and cloves. Cover the pot with a lid and bring mixture to a boil over medium heat. Cook about 55 minutes or until tender, but still with a small bite.\nDrain extra liquid from the cabbage. Brown butter in a small saucepan by cooking it over medium-low heat until foamy and golden. Remove from heat and stir into cooked cabbage mixture with the lemon juice.",
       "Preparation Time":"20 minutes",
@@ -7182,7 +7182,7 @@
     {
       "Record No.":"563",
       "Title":"Figs baked  with a balsamic glaze",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"4 figs\n4 pieces of Parma ham\n35g montalgno affine cheese\n2 tbsp balsamic vinegar glaze\nSplash of dry white wine\nFresh basil",
       "Preparation":"To make the balsamic glaze, pur 90ml balsamic vinegar into a small saucepan and simmer for about 20 to 30 minutes until the volume has reduced to around 50%, Heat the oven to 200°C/180°C fan. Cut the figs into quarters, slicing most of the way through but keeping the base intact. Squeeze the base of each fig to open it up, then wrap each one in a piece of parma ham, leaving the top open.\nPut in a baking dish, then push the cheese into the centre of each fig. Drizzle with the balsamic vinegar glaze and a splash of dry white wine, then bake for 20-25 minutes until oozing. Scatter with fresh basil and serve.",
       "Preparation Time":"5 minutes",
@@ -7195,7 +7195,7 @@
     {
       "Record No.":"564",
       "Title":"Mussels with chickpeas au gratin",
-      "Category":"Starters",
+      "Category":"Starters, Appetizers & Hors d'oeuvres",
       "Ingredients":"700g of large mussels\n1 small can of chickpeas, drained\n60ml white wine\n6 cloves garlic\nParmesan cheese, grated\n1 sprig rosemary\n30ml extra-virgin olive oil\nsalt\npepper",
       "Preparation":"Place mussels in a saucepan with 120ml of water and 60ml white wine. Bring to a boil, cover and cook for 3 minutes or until shells open. Filter the cooking liquid and set aside. Discard empty shells and top shells from cooked mussels. Arrange mussels in their bottom shells on a baking tray lined with parchment paper. \nPlace chickpeas in a food processor or blender with filtered mussel cooking liquid. Heat 30ml olive oil with 1 sprig of rosemary and  crushed garlic. When oil starts to sizzle, pour it over the chickpeas. Remove the rosemary. Add salt and pepper and blend. \nSpread chickpea purée over mussels, covering them well. Sprinkle with grated cheese, drizzle with a bit of oil, and grill until golden brown. ",
       "Preparation Time":"30 minutes",
@@ -7208,7 +7208,7 @@
     {
       "Record No.":"566",
       "Title":"Sauerkraut",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"1 white or red cabbage\n1-2 carrots (optional, speeds up fermentation)\n1 tbsp caraway seeds (or juniper berries)\nsalt",
       "Preparation":"Trim the base of the cabbage and peel away the outer leaves; set these aside for use later. Cut the cabbage into quarters and use a mandoline, food processor, coarse grater or sharp knife to finely shred the cabbage and carrot (if using).\nTip the cabbage into a large bowl, add the caraway seeds and make a note of the total weight. Add 2 per cent salt of this total weight, so if the total weight is 600g, you will need 12g salt.\nUsing your hands, massage the salt really well into the shredded cabbage for a couple of minutes until it starts to soften. Cover the bowl with a clean cloth or plate and set aside for at least 30 minutes and up to three hours until the cabbage is very soft and has released water.\nScoop the cabbage and any resulting liquid into a clean one-to-two-litre jar and really pack it down hard so that the shredded cabbage is submerged under the briny liquid and you have a clear 5cm gap between the cabbage and the top of the jar. Cover the top of the cabbage with the reserved outer leaves and place a weight on top. Close the lid but leave it slightly loose – if the jar is sealed tight it runs the risk of exploding!\nPlace the jar on a plate in a dark cool cupboard out of direct sunlight and leave for two to three days for fermentation to start. Burp the jar daily to release any collected gas. After seven days the sauerkraut should be fermenting nicely so it can now be stored in the fridge. Use within one to two months, depending on how soft you like it.",
       "Preparation Time":"10 minutes",
@@ -7403,7 +7403,7 @@
     {
       "Record No.":"581",
       "Title":"Dal Makhani",
-      "Category":"Accompaniments",
+      "Category":"Accompaniments & Side Dishes",
       "Ingredients":"300g black urad dal, soaked overnight in cold water\n750ml boiling water, plus extra if needed\n5 tbsp oil\n2 onions, finely chopped\n1 tbsp garlic paste\n1 tbsp ginger paste\n2 tomatoes, diced\n2 tsp Kashmiri chilli powder\n1 tsp ground turmeric\n1 tbsp garam masala\n1 tsp paprika\n250ml single cream\n2 tsp salt, or to taste\n3 tbsp butter, or to taste\n4 tbsp chopped coriander leaves, to garnish\nFor the garam masala (makes 170g):\n6 tbsp coriander seeds\n6 tbsp cumin seeds\n5 tsp black peppercorns\n4 tbsp fennel seeds\n3 tsp cloves\n7.5cm real cinnamon stick\n5 dried Indian bay leaves\n20 green cardamom pods, lightly bruised\n2 large pieces of mace",
       "Preparation":"For the garam masala: Roast all the spices in a dry frying pan over a medium-high heat until warm to the touch and fragrant, moving them around in the pan as they roast and being careful not to burn them. If they begin to smoke, take them off the heat immediately. Tip the warm spices onto a plate and leave to cool, then grind to a fine powder in a spice grinder or pestle and mortar. Store in an airtight container in a cool, dark place and use within two months for optimal flavour.\nFor the dal makhani: For best results, rinse and then soak the urad lentils for eight hours. Rinsing is required but you could get away with not soaking them. It might just take longer for them to cook.\nPlace the lentils in your slow cooker, pour in the water and cook on low for eight hours. Sometime during the day, when it is convenient, heat the oil in a frying pan over a medium-high heat and add the chopped onions. Fry for 10 minutes, or until the onions are soft, translucent and lightly browned and then add the garlic and ginger paste and fry for a further minute. Turn off the heat and stir in the tomatoes, chilli powder, turmeric, garam masala and paprika. Stir for a minute into the hot oil, then set aside.\nCheck the lentils after eight hours to ensure they are fall-apart soft. If not, continue cooking. Once soft, mash them with a potato masher or blend using a stick blender.\nPour in the prepared onion and spice mixture. You want the dal makhani to be good and hot, so if serving later you could reheat it using the sauté/searing mode of your slow cooker or in a pot on your stove.\nJust before serving, stir in most of the cream and season with salt to taste. Top with the butter, which will melt into the dal. I usually swirl a little cream on top at the end before garnishing with the chopped coriander.",
       "Preparation Time":"30 minutes",
