@@ -1,5 +1,5 @@
 ﻿{
-  "Database Version": 102,
+  "Database Version": 103,
   "categories": ["Accompaniments & Side Dishes","Beverages","Breads","Cakes, Pastries & Biscuits","Confectionery","Desserts","Dressings & Dips","Ice Creams & Sorbets","Main Courses","Marinades & Sauces","Pâtés & Terrines","Preserves, Relishes & Pickles","Salads","Snacks","Soups","Starters, Appetizers & Hors d'oeuvres"],
   "styles": ["Alsace","American","Asian","Australian","Austria","Belgian","Bolivian","Brazilian","British","British-Indian","Burmese","Caribbean","Chilean","Chinese","Creole","Czech","Danish","Dutch","Egyptian","English","Finish","French","Georgian","German","Greek","Hungarian","Indian","Indonesian","International","Irish","Israeli","Italian","Jamaican","Japanese","Korean","Lebanese","Luxembourg","Malaysian","Mauritian","Mediterranean","Mexican","Middle Eastern","Nepalese","New Zealand","Norwegian","Pakistani","Palestinian","Papua New Guinea","Peruvian","Philippino","Polish","Portuguese","Russian","Scottish","Spanish","Sri Lankan","Swedish","Swiss","Taiwanese","Thai","Turkish","Ukrainian","Uzbek","Venezuelan","Vietnamese","Welsh"],
   "recipes": [
@@ -7658,6 +7658,19 @@
       "Yield":"1 Serving",
       "Country/Style":"Spanish",
       "Keywords":"Cocktail, liquor 43",
+      "Rating":""
+    },
+    {
+      "Record No.":"602",
+      "Title":"Left-over chicken byrani",
+      "Category":"Main Courses",
+      "Ingredients":"1 tablespoon olive oil\n1 onion, sliced\n1 red pepper, sliced\n3 cloves garlic, crushed or grated\n1 teaspoon chilli flakes (or to taste)\n2 teaspoons cumin\n3 teaspoons garam masala\n2 teaspoons turmeric\n400 g cooked chicken, shredded\n300 g basmati rice\nSalt and black pepper to taste\n400 ml coconut milk\n200 ml water or chicken stock, if you prefer\n100 g frozen peas",
+      "Preparation":"Put the tablespoon of olive oil and the onion and red pepper in a large frying pan or sauté pan (must have a lid), fry gently over a low heat with the lid on for 3 minutes or until softened but not browned.\nAdd the garlic, chilli and spices and fry for 2 minutes.\nAdd the shredded chicken, rice, salt and pepper. Stir to coat the chicken and rice in the spices, then add the coconut milk and water and bring to the boil.\nPut a lid on the frying pan and turn the heat right down, simmer for 8 minutes then add the frozen peas, stir once and replace the lid.\nCook for a further 5 minutes or until the rice is done to your liking. If it starts sticking before the rice is cooked, add an extra splash of water.",
+      "Preparation Time":"5 minutes",
+      "Cook Time":"20 minutes",
+      "Yield":"4 servings",
+      "Country/Style":"Indian",
+      "Keywords":"left-over, spicy",
       "Rating":""
     }
   ]
