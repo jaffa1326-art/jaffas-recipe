@@ -1,5 +1,5 @@
 {
-  "Database Version": 120,
+  "Database Version": 121,
   "categories": ["Accompaniments & Side Dishes", "Beverages", "Breads", "Cakes, Pastries & Biscuits", "Confectionery", "Desserts", "Dressings & Dips", "Ice Creams & Sorbets", "Main Courses", "Marinades & Sauces", "Preserves, Relishes & Pickles", "Pâtés & Terrines", "Salads", "Snacks", "Soups", "Starters, Appetizers & Hors d'oeuvres"],
   "styles": ["Alsace", "American", "Asian", "Australian", "Austria", "Belgian", "Bolivian", "Brazilian", "British", "British-Indian", "Burmese", "Caribbean", "Chilean", "Chinese", "Creole", "Czech", "Danish", "Dutch", "Egyptian", "English", "Finish", "French", "Georgian", "German", "Greek", "Hungarian", "Indian", "Indonesian", "International", "Irish", "Israeli", "Italian", "Jamaican", "Japanese", "Korean", "Lebanese", "Luxembourg", "Malaysian", "Mauritian", "Mediterranean", "Mexican", "Middle Eastern", "Nepalese", "New Zealand", "Norwegian", "Pakistani", "Palestinian", "Papua New Guinea", "Peruvian", "Philippino", "Polish", "Portuguese", "Russian", "Scottish", "Spanish", "Sri Lankan", "Swedish", "Swiss", "Taiwanese", "Thai", "Turkish", "Ukrainian", "Uzbek", "Venezuelan", "Vietnamese", "Welsh"],
   "recipes": [
@@ -7671,6 +7671,19 @@
       "Yield": "4 servings",
       "Country/Style": "Indian",
       "Keywords": "left-over, spicy",
+      "Rating": ""
+    },
+    {
+      "Record No.": "591",
+      "Title": "Smoked bacon, onion and potato tart",
+      "Category": "Main Courses",
+      "Ingredients": "500g pack ready-rolled all-butter puff pastry\n2 large onions, thinly sliced\n25g butter\n500g waxy potatoes\n300g smoked bacon lardons\n125g crème fraîche\nSalt\nBlack pepper\n½ tbsp chopped parsley (optional)",
+      "Preparation": "Roll out 500g pack ready-rolled all-butter puff pastry to make a 35.5cm circle and put it on a lightly floured baking-sheet. Prick all over with a fork. Put a circle of greaseproof paper on top (measuring about 6cm less than the pastry) and weigh it down with baking beans.\nPut into an oven preheated to 190C/180C fan/gas mark 5 and cook for 20 minutes, removing the paper and beans after 15 minutes.\nThe pastry will billow up despite the beans, but just press it down with the back of a wooden spoon when you remove it from the oven. Set the pastry aside.\nSauté 2 large thinly sliced onions in 15g of the butter over a very low heat with a splash of water until golden and soft (it will take about 15 minutes). Keep an eye on them to make sure they don\u2019t catch at the bottom of the pan. Season.\nPeel then parboil 500g waxy potatoes for about 10 minutes and, when they\u2019re cool enough to handle, slice very thinly. Melt the remaining 10g of butter.\nPut the onions on to the cooked pastry using a slotted spoon, leaving a 3cm border all the way round. Then lay the potatoes on top, brushing with butter and seasoning as you go.\nTurn the oven up to 200C/190C fan/gas mark 6, and cook the tart for 15-20 minutes, or until the top is golden. Fry 300g smoked bacon lardons in the onion pan until they\u2019re golden brown. When the tart has 5 minutes\u2019 cooking time remaining put the lardons and teaspoonfuls of the 125g crème fraîche all over it. Return to the oven to finish cooking.",
+      "Preparation Time": "10 minutes",
+      "Cook Time": "1 hour",
+      "Yield": "4 servings",
+      "Country/Style": "British",
+      "Keywords": "tart",
       "Rating": ""
     }
   ]
